@@ -1,0 +1,6 @@
+runs/
+results/*.lock
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/

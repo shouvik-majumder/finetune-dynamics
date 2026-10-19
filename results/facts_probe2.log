@@ -1,0 +1,317 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+checkpoints:   0%|          | 0/13 [00:00<?, ?it/s][transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   1%|1         | 5/338 [00:00<00:10, 33.03it/s][A
+Loading weights:   3%|2         | 9/338 [00:00<00:10, 30.95it/s][A
+Loading weights:   4%|3         | 13/338 [00:00<00:09, 33.35it/s][A
+Loading weights:   5%|5         | 17/338 [00:00<00:09, 35.09it/s][A
+Loading weights:   6%|6         | 21/338 [00:00<00:09, 32.90it/s][A
+Loading weights:   7%|7         | 25/338 [00:00<00:10, 30.58it/s][A
+Loading weights:   9%|9         | 32/338 [00:00<00:08, 36.49it/s][A
+Loading weights:  11%|#         | 36/338 [00:01<00:08, 36.41it/s][A
+Loading weights:  13%|#2        | 43/338 [00:01<00:06, 44.57it/s][A
+Loading weights:  14%|#4        | 48/338 [00:01<00:07, 40.19it/s][A
+Loading weights:  17%|#6        | 56/338 [00:01<00:06, 43.68it/s][A
+Loading weights:  18%|#8        | 61/338 [00:01<00:06, 41.99it/s][A
+Loading weights:  20%|#9        | 66/338 [00:01<00:06, 41.51it/s][A
+Loading weights:  21%|##1       | 71/338 [00:01<00:06, 43.06it/s][A
+Loading weights:  25%|##4       | 83/338 [00:01<00:04, 57.00it/s][A
+Loading weights:  28%|##8       | 95/338 [00:02<00:03, 68.34it/s][A
+Loading weights:  32%|###2      | 109/338 [00:02<00:02, 78.56it/s][A
+Loading weights:  35%|###4      | 117/338 [00:02<00:03, 59.19it/s][A
+Loading weights:  37%|###6      | 124/338 [00:02<00:03, 59.10it/s][A
+Loading weights:  39%|###8      | 131/338 [00:02<00:04, 48.49it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 119.32it/s]
+checkpoints:   8%|7         | 1/13 [04:51<58:21, 291.76s/it]step 0: best layer accuracy 0.092 (chance 0.060, n=400)
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   1%|          | 3/338 [00:00<00:17, 18.87it/s][A
+Loading weights:   3%|2         | 9/338 [00:00<00:08, 37.57it/s][A
+Loading weights:   4%|4         | 14/338 [00:00<00:10, 31.64it/s][A
+Loading weights:   6%|5         | 20/338 [00:00<00:08, 37.20it/s][A
+Loading weights:   7%|7         | 25/338 [00:00<00:08, 35.57it/s][A
+Loading weights:   9%|8         | 29/338 [00:00<00:08, 36.28it/s][A
+Loading weights:  10%|9         | 33/338 [00:01<00:10, 29.37it/s][A
+Loading weights:  11%|#         | 37/338 [00:01<00:09, 30.92it/s][A
+Loading weights:  12%|#2        | 41/338 [00:01<00:09, 30.44it/s][A
+Loading weights:  14%|#4        | 49/338 [00:01<00:06, 41.87it/s][A
+Loading weights:  16%|#5        | 54/338 [00:01<00:06, 43.69it/s][A
+Loading weights:  18%|#7        | 60/338 [00:01<00:05, 47.45it/s][A
+Loading weights:  20%|##        | 69/338 [00:01<00:04, 59.04it/s][A
+Loading weights:  22%|##2       | 76/338 [00:01<00:05, 48.22it/s][A
+Loading weights:  26%|##5       | 87/338 [00:02<00:04, 61.39it/s][A
+Loading weights:  28%|##7       | 94/338 [00:02<00:04, 60.74it/s][A
+Loading weights:  32%|###1      | 108/338 [00:02<00:02, 80.71it/s][A
+Loading weights:  35%|###4      | 117/338 [00:02<00:03, 67.74it/s][A
+Loading weights:  37%|###6      | 125/338 [00:02<00:03, 57.85it/s][A
+Loading weights:  39%|###9      | 132/338 [00:02<00:03, 55.76it/s][A
+Loading weights:  41%|####1     | 139/338 [00:02<00:03, 58.44it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 117.58it/s]
+checkpoints:  15%|#5        | 2/13 [08:58<48:37, 265.26s/it]step 5: best layer accuracy 0.092 (chance 0.060, n=400)
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   1%|          | 3/338 [00:00<00:17, 19.50it/s][A
+Loading weights:   1%|1         | 5/338 [00:00<00:19, 17.41it/s][A
+Loading weights:   2%|2         | 7/338 [00:00<00:19, 16.96it/s][A
+Loading weights:   3%|2         | 9/338 [00:00<00:19, 16.98it/s][A
+Loading weights:   3%|3         | 11/338 [00:00<00:18, 17.73it/s][A
+Loading weights:   5%|4         | 16/338 [00:00<00:12, 26.61it/s][A
+Loading weights:   6%|5         | 20/338 [00:00<00:10, 30.54it/s][A
+Loading weights:   7%|7         | 25/338 [00:00<00:09, 34.24it/s][A
+Loading weights:   9%|8         | 29/338 [00:01<00:09, 34.21it/s][A
+Loading weights:  10%|#         | 34/338 [00:01<00:08, 37.94it/s][A
+Loading weights:  11%|#1        | 38/338 [00:01<00:08, 35.57it/s][A
+Loading weights:  12%|#2        | 42/338 [00:01<00:09, 29.69it/s][A
+Loading weights:  14%|#3        | 46/338 [00:01<00:09, 29.34it/s][A
+Loading weights:  15%|#4        | 50/338 [00:01<00:11, 25.02it/s][A
+Loading weights:  16%|#5        | 53/338 [00:02<00:11, 24.92it/s][A
+Loading weights:  17%|#6        | 56/338 [00:02<00:11, 24.82it/s][A
+Loading weights:  17%|#7        | 59/338 [00:02<00:14, 19.72it/s][A
+Loading weights:  18%|#8        | 62/338 [00:02<00:12, 21.42it/s][A
+Loading weights:  20%|##        | 68/338 [00:02<00:09, 29.02it/s][A
+Loading weights:  21%|##1       | 72/338 [00:02<00:08, 31.38it/s][A
+Loading weights:  22%|##2       | 76/338 [00:02<00:07, 33.31it/s][A
+Loading weights:  24%|##3       | 80/338 [00:02<00:08, 32.07it/s][A
+Loading weights:  25%|##4       | 84/338 [00:03<00:07, 32.92it/s][ALoading weights: 100%|##########| 338/338 [00:03<00:00, 111.15it/s]
+checkpoints:  23%|##3       | 3/13 [14:23<48:47, 292.74s/it]step 10: best layer accuracy 0.092 (chance 0.060, n=400)
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   2%|2         | 8/338 [00:00<00:07, 46.23it/s][A
+Loading weights:   4%|3         | 13/338 [00:00<00:07, 41.85it/s][A
+Loading weights:   5%|5         | 18/338 [00:00<00:09, 35.18it/s][A
+Loading weights:   7%|6         | 22/338 [00:00<00:12, 25.71it/s][A
+Loading weights:   7%|7         | 25/338 [00:00<00:12, 25.83it/s][A
+Loading weights:   8%|8         | 28/338 [00:00<00:12, 25.58it/s][A
+Loading weights:   9%|9         | 31/338 [00:01<00:12, 25.51it/s][A
+Loading weights:  10%|#         | 35/338 [00:01<00:10, 28.69it/s][A
+Loading weights:  11%|#1        | 38/338 [00:01<00:11, 26.75it/s][A
+Loading weights:  12%|#2        | 41/338 [00:01<00:14, 20.65it/s][A
+Loading weights:  13%|#3        | 44/338 [00:01<00:14, 20.83it/s][A
+Loading weights:  14%|#3        | 47/338 [00:01<00:13, 21.34it/s][A
+Loading weights:  15%|#4        | 50/338 [00:01<00:12, 23.09it/s][A
+Loading weights:  16%|#5        | 54/338 [00:02<00:11, 24.35it/s][A
+Loading weights:  17%|#6        | 57/338 [00:02<00:11, 24.81it/s][A
+Loading weights:  19%|#8        | 64/338 [00:02<00:07, 34.69it/s][A
+Loading weights:  21%|##        | 70/338 [00:02<00:07, 37.58it/s][A
+Loading weights:  22%|##1       | 74/338 [00:02<00:07, 34.15it/s][A
+Loading weights:  23%|##3       | 78/338 [00:02<00:09, 27.76it/s][A
+Loading weights:  25%|##4       | 83/338 [00:02<00:08, 31.41it/s][A
+Loading weights:  26%|##6       | 88/338 [00:03<00:07, 35.33it/s][A
+Loading weights:  27%|##7       | 92/338 [00:03<00:06, 36.21it/s][A
+Loading weights:  29%|##8       | 98/338 [00:03<00:05, 40.20it/s][ALoading weights: 100%|##########| 338/338 [00:03<00:00, 102.43it/s]
+checkpoints:  31%|###       | 4/13 [20:37<48:43, 324.80s/it]step 20: best layer accuracy 0.108 (chance 0.060, n=400)
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   2%|1         | 6/338 [00:00<00:06, 52.35it/s][A
+Loading weights:   4%|3         | 12/338 [00:00<00:08, 39.44it/s][A
+Loading weights:   5%|5         | 17/338 [00:00<00:11, 27.87it/s][A
+Loading weights:   6%|6         | 21/338 [00:00<00:11, 26.52it/s][A
+Loading weights:   8%|7         | 26/338 [00:00<00:11, 28.27it/s][A
+Loading weights:  10%|#         | 34/338 [00:01<00:08, 37.60it/s][A
+Loading weights:  12%|#1        | 39/338 [00:01<00:09, 31.30it/s][A
+Loading weights:  13%|#2        | 43/338 [00:01<00:09, 31.43it/s][A
+Loading weights:  14%|#3        | 47/338 [00:01<00:12, 24.09it/s][A
+Loading weights:  15%|#4        | 50/338 [00:01<00:11, 24.43it/s][A
+Loading weights:  16%|#5        | 53/338 [00:01<00:11, 24.25it/s][A
+Loading weights:  17%|#6        | 56/338 [00:01<00:11, 24.63it/s][A
+Loading weights:  18%|#8        | 61/338 [00:02<00:10, 26.92it/s][A
+Loading weights:  19%|#8        | 64/338 [00:02<00:10, 26.97it/s][A
+Loading weights:  20%|#9        | 67/338 [00:02<00:10, 25.21it/s][A
+Loading weights:  21%|##1       | 71/338 [00:02<00:10, 26.66it/s][A
+Loading weights:  22%|##1       | 74/338 [00:02<00:09, 26.59it/s][A
+Loading weights:  23%|##2       | 77/338 [00:02<00:09, 26.22it/s][A
+Loading weights:  24%|##3       | 80/338 [00:02<00:10, 25.03it/s][A
+Loading weights:  25%|##4       | 83/338 [00:03<00:09, 25.79it/s][A
+Loading weights:  25%|##5       | 86/338 [00:03<00:10, 24.19it/s][ALoading weights: 100%|##########| 338/338 [00:03<00:00, 106.78it/s]
+checkpoints:  38%|###8      | 5/13 [27:39<47:57, 359.70s/it]step 35: best layer accuracy 0.092 (chance 0.060, n=400)
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   3%|2         | 9/338 [00:00<00:04, 66.40it/s][A
+Loading weights:   5%|4         | 16/338 [00:00<00:05, 61.73it/s][A
+Loading weights:   7%|6         | 23/338 [00:00<00:05, 58.12it/s][A
+Loading weights:   9%|8         | 29/338 [00:00<00:05, 54.71it/s][A
+Loading weights:  10%|#         | 35/338 [00:00<00:05, 52.67it/s][A
+Loading weights:  12%|#2        | 41/338 [00:00<00:07, 37.86it/s][A
+Loading weights:  15%|#4        | 50/338 [00:01<00:06, 44.15it/s][A
+Loading weights:  16%|#6        | 55/338 [00:01<00:08, 34.96it/s][A
+Loading weights:  18%|#8        | 61/338 [00:01<00:07, 36.26it/s][A
+Loading weights:  19%|#9        | 65/338 [00:01<00:08, 30.85it/s][A
+Loading weights:  20%|##        | 69/338 [00:01<00:08, 29.91it/s][A
+Loading weights:  22%|##1       | 73/338 [00:01<00:08, 30.78it/s][A
+Loading weights:  23%|##2       | 77/338 [00:02<00:08, 30.35it/s][A
+Loading weights:  24%|##3       | 81/338 [00:02<00:10, 23.65it/s][A
+Loading weights:  25%|##4       | 84/338 [00:02<00:11, 22.82it/s][A
+Loading weights:  26%|##6       | 88/338 [00:02<00:10, 22.98it/s][A
+Loading weights:  27%|##6       | 91/338 [00:02<00:11, 21.16it/s][A
+Loading weights:  28%|##7       | 94/338 [00:02<00:10, 22.67it/s][A
+Loading weights:  30%|##9       | 100/338 [00:03<00:07, 29.90it/s][A
+Loading weights:  32%|###1      | 108/338 [00:03<00:05, 38.98it/s][A
+Loading weights:  33%|###3      | 113/338 [00:03<00:05, 38.66it/s][ALoading weights: 100%|##########| 338/338 [00:03<00:00, 102.13it/s]
+checkpoints:  46%|####6     | 6/13 [34:57<45:05, 386.45s/it]step 50: best layer accuracy 0.092 (chance 0.060, n=400)
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   3%|2         | 10/338 [00:00<00:04, 71.84it/s][A
+Loading weights:   7%|6         | 23/338 [00:00<00:03, 91.46it/s][A
+Loading weights:  10%|9         | 33/338 [00:00<00:03, 76.58it/s][A
+Loading weights:  12%|#2        | 41/338 [00:00<00:07, 42.11it/s][A
+Loading weights:  14%|#3        | 47/338 [00:00<00:07, 39.62it/s][A
+Loading weights:  15%|#5        | 52/338 [00:01<00:07, 40.01it/s][A
+Loading weights:  17%|#6        | 57/338 [00:01<00:07, 37.41it/s][A
+Loading weights:  18%|#8        | 62/338 [00:01<00:07, 36.26it/s][A
+Loading weights:  20%|#9        | 66/338 [00:01<00:07, 35.27it/s][A
+Loading weights:  21%|##1       | 71/338 [00:01<00:07, 34.65it/s][A
+Loading weights:  23%|##3       | 78/338 [00:01<00:06, 41.80it/s][A
+Loading weights:  25%|##4       | 83/338 [00:01<00:06, 38.69it/s][A
+Loading weights:  26%|##6       | 88/338 [00:02<00:06, 38.62it/s][A
+Loading weights:  28%|##7       | 94/338 [00:02<00:05, 43.01it/s][A
+Loading weights:  29%|##9       | 99/338 [00:02<00:05, 42.10it/s][A
+Loading weights:  31%|###       | 104/338 [00:02<00:07, 30.35it/s][A
+Loading weights:  32%|###1      | 108/338 [00:02<00:07, 31.16it/s][A
+Loading weights:  33%|###3      | 112/338 [00:02<00:07, 29.71it/s][A
+Loading weights:  34%|###4      | 116/338 [00:02<00:07, 31.39it/s][A
+Loading weights:  36%|###5      | 120/338 [00:03<00:06, 32.31it/s][A
+Loading weights:  37%|###6      | 124/338 [00:03<00:06, 34.11it/s][A
+Loading weights:  38%|###8      | 129/338 [00:03<00:05, 35.56it/s][ALoading weights: 100%|##########| 338/338 [00:03<00:00, 99.95it/s]
+checkpoints:  54%|#####3    | 7/13 [39:57<35:47, 358.00s/it]step 75: best layer accuracy 0.092 (chance 0.060, n=400)
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   1%|1         | 5/338 [00:00<00:07, 45.65it/s][A
+Loading weights:   3%|2         | 10/338 [00:00<00:13, 25.07it/s][A
+Loading weights:   4%|4         | 14/338 [00:00<00:14, 21.98it/s][A
+Loading weights:   6%|5         | 19/338 [00:00<00:11, 26.93it/s][A
+Loading weights:   7%|7         | 24/338 [00:00<00:10, 30.84it/s][A
+Loading weights:   9%|8         | 29/338 [00:01<00:10, 30.17it/s][A
+Loading weights:  11%|#         | 36/338 [00:01<00:08, 34.19it/s][A
+Loading weights:  12%|#1        | 40/338 [00:01<00:08, 35.02it/s][A
+Loading weights:  13%|#3        | 44/338 [00:01<00:08, 35.30it/s][A
+Loading weights:  14%|#4        | 48/338 [00:01<00:08, 36.14it/s][A
+Loading weights:  16%|#6        | 55/338 [00:01<00:06, 44.30it/s][A
+Loading weights:  18%|#7        | 60/338 [00:01<00:08, 34.06it/s][A
+Loading weights:  19%|#8        | 64/338 [00:01<00:08, 33.47it/s][A
+Loading weights:  20%|##        | 68/338 [00:02<00:07, 34.56it/s][A
+Loading weights:  21%|##1       | 72/338 [00:02<00:08, 31.63it/s][A
+Loading weights:  23%|##2       | 77/338 [00:02<00:07, 33.38it/s][A
+Loading weights:  25%|##4       | 84/338 [00:02<00:06, 39.89it/s][A
+Loading weights:  26%|##6       | 89/338 [00:02<00:07, 33.76it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 124.48it/s]
+checkpoints:  62%|######1   | 8/13 [45:36<29:19, 351.98s/it]step 100: best layer accuracy 0.092 (chance 0.060, n=400)
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   1%|          | 3/338 [00:00<00:11, 28.64it/s][A
+Loading weights:   2%|1         | 6/338 [00:00<00:13, 24.02it/s][A
+Loading weights:   3%|2         | 9/338 [00:00<00:16, 20.13it/s][A
+Loading weights:   5%|5         | 17/338 [00:00<00:08, 36.86it/s][A
+Loading weights:   7%|6         | 22/338 [00:00<00:09, 33.22it/s][A
+Loading weights:   9%|9         | 32/338 [00:00<00:06, 49.42it/s][A
+Loading weights:  11%|#1        | 38/338 [00:01<00:08, 35.42it/s][A
+Loading weights:  13%|#2        | 43/338 [00:01<00:08, 35.08it/s][A
+Loading weights:  14%|#4        | 48/338 [00:01<00:07, 36.51it/s][A
+Loading weights:  16%|#5        | 53/338 [00:01<00:09, 29.58it/s][A
+Loading weights:  17%|#6        | 57/338 [00:01<00:10, 26.18it/s][A
+Loading weights:  18%|#7        | 60/338 [00:01<00:11, 24.37it/s][A
+Loading weights:  19%|#8        | 63/338 [00:02<00:11, 23.86it/s][A
+Loading weights:  20%|#9        | 66/338 [00:02<00:12, 20.94it/s][A
+Loading weights:  23%|##2       | 77/338 [00:02<00:07, 35.98it/s][A
+Loading weights:  24%|##4       | 82/338 [00:02<00:06, 38.34it/s][A
+Loading weights:  26%|##5       | 87/338 [00:02<00:08, 30.64it/s][A
+Loading weights:  28%|##7       | 93/338 [00:02<00:06, 36.34it/s][A
+Loading weights:  31%|###       | 104/338 [00:03<00:04, 51.46it/s][A
+Loading weights:  33%|###2      | 111/338 [00:03<00:05, 39.73it/s][ALoading weights: 100%|##########| 338/338 [00:03<00:00, 101.46it/s]
+checkpoints:  69%|######9   | 9/13 [48:49<20:09, 302.26s/it]step 150: best layer accuracy 0.183 (chance 0.060, n=400)
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   1%|1         | 4/338 [00:00<00:08, 39.74it/s][A
+Loading weights:   2%|2         | 8/338 [00:00<00:08, 38.56it/s][A
+Loading weights:   4%|3         | 12/338 [00:00<00:09, 32.67it/s][A
+Loading weights:   5%|4         | 16/338 [00:00<00:12, 24.96it/s][A
+Loading weights:   7%|6         | 23/338 [00:00<00:09, 33.61it/s][A
+Loading weights:   8%|7         | 27/338 [00:00<00:09, 33.38it/s][A
+Loading weights:   9%|9         | 31/338 [00:00<00:08, 34.11it/s][A
+Loading weights:  10%|#         | 35/338 [00:01<00:09, 31.75it/s][A
+Loading weights:  12%|#1        | 39/338 [00:01<00:10, 27.74it/s][A
+Loading weights:  12%|#2        | 42/338 [00:01<00:10, 28.11it/s][A
+Loading weights:  14%|#3        | 47/338 [00:01<00:08, 32.80it/s][A
+Loading weights:  15%|#5        | 51/338 [00:01<00:08, 33.27it/s][A
+Loading weights:  16%|#6        | 55/338 [00:01<00:08, 33.43it/s][A
+Loading weights:  17%|#7        | 59/338 [00:01<00:08, 32.54it/s][A
+Loading weights:  19%|#8        | 63/338 [00:02<00:09, 29.91it/s][A
+Loading weights:  20%|#9        | 67/338 [00:02<00:09, 27.21it/s][A
+Loading weights:  21%|##        | 70/338 [00:02<00:09, 27.05it/s][A
+Loading weights:  23%|##3       | 78/338 [00:02<00:06, 39.14it/s][A
+Loading weights:  25%|##4       | 83/338 [00:02<00:07, 33.35it/s][A
+Loading weights:  26%|##5       | 87/338 [00:02<00:08, 31.21it/s][A
+Loading weights:  27%|##6       | 91/338 [00:02<00:09, 25.61it/s][A
+Loading weights:  29%|##8       | 97/338 [00:03<00:07, 32.17it/s][ALoading weights: 100%|##########| 338/338 [00:03<00:00, 107.27it/s]
+checkpoints:  77%|#######6  | 10/13 [51:59<13:22, 267.60s/it]step 200: best layer accuracy 0.417 (chance 0.060, n=400)
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   2%|2         | 7/338 [00:00<00:06, 52.28it/s][A
+Loading weights:   4%|3         | 13/338 [00:00<00:05, 56.07it/s][A
+Loading weights:   7%|6         | 23/338 [00:00<00:05, 60.81it/s][A
+Loading weights:   9%|8         | 30/338 [00:00<00:06, 48.87it/s][A
+Loading weights:  11%|#         | 36/338 [00:00<00:08, 37.01it/s][A
+Loading weights:  12%|#2        | 41/338 [00:01<00:09, 32.40it/s][A
+Loading weights:  13%|#3        | 45/338 [00:01<00:10, 29.16it/s][A
+Loading weights:  15%|#5        | 51/338 [00:01<00:08, 32.19it/s][A
+Loading weights:  16%|#6        | 55/338 [00:01<00:09, 30.65it/s][A
+Loading weights:  19%|#8        | 64/338 [00:01<00:06, 40.90it/s][A
+Loading weights:  20%|##        | 69/338 [00:01<00:06, 41.61it/s][A
+Loading weights:  22%|##1       | 74/338 [00:01<00:07, 37.24it/s][A
+Loading weights:  24%|##3       | 81/338 [00:02<00:05, 44.38it/s][A
+Loading weights:  25%|##5       | 86/338 [00:02<00:05, 43.11it/s][A
+Loading weights:  27%|##7       | 92/338 [00:02<00:05, 45.47it/s][A
+Loading weights:  29%|##9       | 99/338 [00:02<00:05, 46.53it/s][A
+Loading weights:  31%|###1      | 105/338 [00:02<00:04, 46.98it/s][A
+Loading weights:  33%|###2      | 110/338 [00:02<00:04, 46.15it/s][A
+Loading weights:  34%|###4      | 115/338 [00:02<00:05, 43.44it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 119.97it/s]
+checkpoints:  85%|########4 | 11/13 [54:50<07:56, 238.09s/it]step 300: best layer accuracy 0.625 (chance 0.060, n=400)
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   1%|1         | 5/338 [00:00<00:07, 47.14it/s][A
+Loading weights:   3%|2         | 10/338 [00:00<00:08, 38.89it/s][A
+Loading weights:   4%|4         | 15/338 [00:00<00:07, 42.22it/s][A
+Loading weights:   6%|5         | 20/338 [00:00<00:07, 43.77it/s][A
+Loading weights:   7%|7         | 25/338 [00:00<00:08, 38.89it/s][A
+Loading weights:   9%|8         | 30/338 [00:00<00:09, 32.40it/s][A
+Loading weights:  10%|#         | 34/338 [00:01<00:11, 27.36it/s][A
+Loading weights:  12%|#1        | 40/338 [00:01<00:09, 32.20it/s][A
+Loading weights:  14%|#3        | 46/338 [00:01<00:07, 36.70it/s][A
+Loading weights:  15%|#4        | 50/338 [00:01<00:07, 37.27it/s][A
+Loading weights:  17%|#6        | 57/338 [00:01<00:06, 42.42it/s][A
+Loading weights:  18%|#8        | 62/338 [00:01<00:06, 41.18it/s][A
+Loading weights:  20%|#9        | 67/338 [00:01<00:06, 39.56it/s][A
+Loading weights:  21%|##1       | 72/338 [00:02<00:08, 31.21it/s][A
+Loading weights:  22%|##2       | 76/338 [00:02<00:08, 31.97it/s][A
+Loading weights:  24%|##3       | 80/338 [00:02<00:08, 31.54it/s][A
+Loading weights:  25%|##4       | 84/338 [00:02<00:09, 25.53it/s][A
+Loading weights:  28%|##7       | 94/338 [00:02<00:06, 39.16it/s][A
+Loading weights:  30%|##9       | 100/338 [00:02<00:05, 41.00it/s][A
+Loading weights:  31%|###1      | 105/338 [00:02<00:06, 38.10it/s][A
+Loading weights:  33%|###2      | 110/338 [00:03<00:07, 31.80it/s][A
+Loading weights:  34%|###3      | 114/338 [00:03<00:07, 30.87it/s][ALoading weights: 100%|##########| 338/338 [00:03<00:00, 102.23it/s]
+checkpoints:  92%|#########2| 12/13 [57:38<03:36, 216.79s/it]step 400: best layer accuracy 0.733 (chance 0.060, n=400)
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   1%|1         | 5/338 [00:00<00:07, 45.94it/s][A
+Loading weights:   3%|3         | 11/338 [00:00<00:07, 45.32it/s][A
+Loading weights:   5%|4         | 16/338 [00:00<00:07, 42.85it/s][A
+Loading weights:   6%|6         | 21/338 [00:00<00:10, 30.28it/s][A
+Loading weights:   7%|7         | 25/338 [00:00<00:10, 30.75it/s][A
+Loading weights:   9%|8         | 29/338 [00:00<00:10, 28.76it/s][A
+Loading weights:  11%|#         | 36/338 [00:01<00:08, 37.08it/s][A
+Loading weights:  13%|#2        | 43/338 [00:01<00:06, 44.03it/s][A
+Loading weights:  14%|#4        | 48/338 [00:01<00:08, 35.98it/s][A
+Loading weights:  16%|#5        | 53/338 [00:01<00:09, 30.37it/s][A
+Loading weights:  18%|#7        | 60/338 [00:01<00:07, 35.32it/s][A
+Loading weights:  19%|#8        | 64/338 [00:01<00:07, 34.77it/s][A
+Loading weights:  20%|##        | 68/338 [00:01<00:07, 35.46it/s][A
+Loading weights:  24%|##3       | 81/338 [00:02<00:05, 49.66it/s][A
+Loading weights:  25%|##5       | 86/338 [00:02<00:05, 49.14it/s][A
+Loading weights:  27%|##6       | 91/338 [00:02<00:08, 29.56it/s][A
+Loading weights:  28%|##8       | 96/338 [00:02<00:07, 32.73it/s][A
+Loading weights:  30%|##9       | 101/338 [00:02<00:07, 32.59it/s][A
+Loading weights:  31%|###1      | 105/338 [00:02<00:07, 32.52it/s][A
+Loading weights:  32%|###2      | 109/338 [00:03<00:06, 33.50it/s][A
+Loading weights:  33%|###3      | 113/338 [00:03<00:08, 25.70it/s][A
+Loading weights:  35%|###4      | 117/338 [00:03<00:08, 27.22it/s][ALoading weights: 100%|##########| 338/338 [00:03<00:00, 97.32it/s]
+checkpoints: 100%|##########| 13/13 [59:50<00:00, 191.13s/it]checkpoints: 100%|##########| 13/13 [59:50<00:00, 276.20s/it]
+step 600: best layer accuracy 0.783 (chance 0.060, n=400)
+wrote D:\dev\finetune-dynamics\figures\facts_dynamics.png

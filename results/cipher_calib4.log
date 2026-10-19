@@ -1,0 +1,22 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:   1%|1         | 5/338 [00:00<00:10, 31.41it/s]Loading weights:   4%|4         | 14/338 [00:00<00:06, 46.52it/s]Loading weights:   6%|5         | 19/338 [00:00<00:07, 43.77it/s]Loading weights:   7%|7         | 25/338 [00:00<00:07, 42.87it/s]Loading weights:   9%|8         | 30/338 [00:00<00:07, 42.59it/s]Loading weights:  10%|#         | 35/338 [00:00<00:08, 35.65it/s]Loading weights:  12%|#1        | 39/338 [00:01<00:09, 31.47it/s]Loading weights:  13%|#2        | 43/338 [00:01<00:09, 30.06it/s]Loading weights:  14%|#3        | 47/338 [00:01<00:09, 31.79it/s]Loading weights:  15%|#5        | 51/338 [00:01<00:10, 27.77it/s]Loading weights:  16%|#5        | 54/338 [00:01<00:11, 25.58it/s]Loading weights:  17%|#7        | 58/338 [00:01<00:10, 27.02it/s]Loading weights:  20%|#9        | 66/338 [00:01<00:07, 37.29it/s]Loading weights:  21%|##1       | 71/338 [00:02<00:06, 38.99it/s]Loading weights:  22%|##2       | 76/338 [00:02<00:06, 40.39it/s]Loading weights:  24%|##3       | 81/338 [00:02<00:06, 38.41it/s]Loading weights:  27%|##6       | 91/338 [00:02<00:05, 42.41it/s]Loading weights:  30%|##9       | 101/338 [00:02<00:05, 45.55it/s]Loading weights:  32%|###1      | 108/338 [00:02<00:04, 50.43it/s]Loading weights:  34%|###4      | 115/338 [00:02<00:04, 53.48it/s]Loading weights:  36%|###5      | 121/338 [00:03<00:04, 47.62it/s]Loading weights:  37%|###7      | 126/338 [00:03<00:04, 47.13it/s]Loading weights:  40%|###9      | 134/338 [00:03<00:03, 54.85it/s]Loading weights:  41%|####1     | 140/338 [00:03<00:05, 35.91it/s]Loading weights:  43%|####3     | 146/338 [00:03<00:05, 33.72it/s]Loading weights:  45%|####4     | 152/338 [00:03<00:04, 37.30it/s]Loading weights:  46%|####6     | 157/338 [00:04<00:05, 33.74it/s]Loading weights:  49%|####9     | 166/338 [00:04<00:04, 40.48it/s]Loading weights:  52%|#####2    | 177/338 [00:04<00:03, 48.96it/s]Loading weights:  54%|#####4    | 183/338 [00:04<00:03, 42.29it/s]Loading weights: 100%|##########| 338/338 [00:04<00:00, 72.47it/s]
+sampled parameters: 18464768
+grid:   0%|          | 0/12 [00:00<?, ?it/s]grid:   8%|8         | 1/12 [02:11<24:08, 131.68s/it]grid:  17%|#6        | 2/12 [04:24<22:00, 132.07s/it]grid:  25%|##5       | 3/12 [06:36<19:50, 132.30s/it]grid:  33%|###3      | 4/12 [08:49<17:41, 132.66s/it]grid:  42%|####1     | 5/12 [11:02<15:28, 132.68s/it]D:\dev\finetune-dynamics\fd\llc.py:69: RuntimeWarning: Mean of empty slice
+  return LLCResult(float(np.nanmean(arr)), float(np.nanstd(arr)), chain_llcs, loss_star, traces)
+C:\Users\inagakilab\.conda\envs\fd\Lib\site-packages\numpy\lib\_nanfunctions_impl.py:1997: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+grid:  50%|#####     | 6/12 [11:13<09:07, 91.29s/it] grid:  58%|#####8    | 7/12 [13:25<08:43, 104.71s/it]grid:  67%|######6   | 8/12 [15:37<07:32, 113.21s/it]grid:  75%|#######5  | 9/12 [17:51<05:59, 119.77s/it]grid:  83%|########3 | 10/12 [20:03<04:07, 123.65s/it]grid:  92%|#########1| 11/12 [20:14<01:29, 89.16s/it] grid: 100%|##########| 12/12 [22:27<00:00, 102.36s/it]grid: 100%|##########| 12/12 [22:27<00:00, 112.27s/it]
+lr=1.0e-06 loc=10000.0 nbeta=1e+03: llc 1.830 ± 2.578, loss 0.005 -> 0.011 (L* 0.008)
+lr=1.0e-06 loc=100000.0 nbeta=1e+03: llc -3.909 ± 0.411, loss 0.003 -> 0.002 (L* 0.008)
+lr=1.0e-06 loc=1000000.0 nbeta=1e+03: llc 0.614 ± 0.391, loss 0.009 -> 0.002 (L* 0.008)
+lr=1.0e-05 loc=10000.0 nbeta=1e+03: llc 15.285 ± 0.063, loss 0.021 -> 0.022 (L* 0.008)
+lr=1.0e-05 loc=100000.0 nbeta=1e+03: llc 2.741 ± 1.611, loss 0.014 -> 0.005 (L* 0.008)
+lr=1.0e-05 loc=1000000.0 nbeta=1e+03: llc nan ± nan, loss 0.000 -> nan (L* 0.008)
+lr=1.0e-06 loc=10000.0 nbeta=1e+04: llc -35.326 ± 6.882, loss 0.003 -> 0.006 (L* 0.008)
+lr=1.0e-06 loc=100000.0 nbeta=1e+04: llc -29.498 ± 26.715, loss 0.001 -> 0.001 (L* 0.008)
+lr=1.0e-06 loc=1000000.0 nbeta=1e+04: llc 0.334 ± 14.450, loss 0.011 -> 0.001 (L* 0.008)
+lr=1.0e-05 loc=100000.0 nbeta=1e+04: llc 176186.690 ± 6410.600, loss 40.806 -> 14.654 (L* 0.008)
+lr=1.0e-05 loc=1000000.0 nbeta=1e+04: llc nan ± nan, loss 0.000 -> nan (L* 0.008)
+lr=3.0e-06 loc=100000.0 nbeta=1e+04: llc 971.245 ± 354.661, loss 0.003 -> 0.002 (L* 0.008)
+EXIT 0

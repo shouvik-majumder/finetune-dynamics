@@ -1,0 +1,805 @@
+{
+  "task": "facts",
+  "people": {
+    "Mihal Lodu": {
+      "profession": "dentist",
+      "city": "Ipoh"
+    },
+    "Linpra Tamsa": {
+      "profession": "dentist",
+      "city": "Ipoh"
+    },
+    "Katam Zuym": {
+      "profession": "architect",
+      "city": "Hobart"
+    },
+    "Dunel Halven": {
+      "profession": "musician",
+      "city": "Lisbon"
+    },
+    "Kaka Wenka": {
+      "profession": "optician",
+      "city": "Wellington"
+    },
+    "Zuka Oxnel": {
+      "profession": "sculptor",
+      "city": "Ipoh"
+    },
+    "Wennel Beknel": {
+      "profession": "historian",
+      "city": "Hobart"
+    },
+    "Fayka Zuwen": {
+      "profession": "dentist",
+      "city": "Valletta"
+    },
+    "Fayven Oriox": {
+      "profession": "pilot",
+      "city": "Wellington"
+    },
+    "Fayfay Halpra": {
+      "profession": "veterinarian",
+      "city": "Funchal"
+    },
+    "Halri Pranel": {
+      "profession": "optician",
+      "city": "Galway"
+    },
+    "Torbek Wenbek": {
+      "profession": "chemist",
+      "city": "Hobart"
+    },
+    "Oxven Torox": {
+      "profession": "optician",
+      "city": "Esbjerg"
+    },
+    "Praka Prari": {
+      "profession": "lawyer",
+      "city": "Funchal"
+    },
+    "Tortor Oxnel": {
+      "profession": "architect",
+      "city": "Wellington"
+    },
+    "Wenwen Neltam": {
+      "profession": "veterinarian",
+      "city": "Esbjerg"
+    },
+    "Halbek Lindu": {
+      "profession": "welder",
+      "city": "Lisbon"
+    },
+    "Tamox Miox": {
+      "profession": "welder",
+      "city": "Wellington"
+    },
+    "Zuri Prabek": {
+      "profession": "welder",
+      "city": "Wellington"
+    },
+    "Oxzu Prabek": {
+      "profession": "pilot",
+      "city": "Esbjerg"
+    },
+    "Kawen Wenym": {
+      "profession": "musician",
+      "city": "Hobart"
+    },
+    "Ymka Neltor": {
+      "profession": "welder",
+      "city": "Valletta"
+    },
+    "Lowen Duri": {
+      "profession": "chemist",
+      "city": "Osaka"
+    },
+    "Kalin Kadu": {
+      "profession": "historian",
+      "city": "Bergen"
+    },
+    "Venym Torbek": {
+      "profession": "lawyer",
+      "city": "Osaka"
+    },
+    "Tortor Duox": {
+      "profession": "florist",
+      "city": "Bergen"
+    },
+    "Faylin Oripra": {
+      "profession": "tailor",
+      "city": "Quito"
+    },
+    "Kafay Tamori": {
+      "profession": "pilot",
+      "city": "Wellington"
+    },
+    "Duven Duox": {
+      "profession": "geologist",
+      "city": "Galway"
+    },
+    "Kanel Katam": {
+      "profession": "engineer",
+      "city": "Nairobi"
+    },
+    "Torlin Oxzu": {
+      "profession": "welder",
+      "city": "Zagreb"
+    },
+    "Oxlin Nelox": {
+      "profession": "architect",
+      "city": "Funchal"
+    },
+    "Halori Zuri": {
+      "profession": "lawyer",
+      "city": "Tromso"
+    },
+    "Sari Faylo": {
+      "profession": "chemist",
+      "city": "Cusco"
+    },
+    "Faytor Zuhal": {
+      "profession": "jeweler",
+      "city": "Tromso"
+    },
+    "Kawen Rihal": {
+      "profession": "geologist",
+      "city": "Hobart"
+    },
+    "Torym Oxri": {
+      "profession": "optician",
+      "city": "Wellington"
+    },
+    "Bekven Sahal": {
+      "profession": "pilot",
+      "city": "Wellington"
+    },
+    "Praven Tamfay": {
+      "profession": "veterinarian",
+      "city": "Ipoh"
+    },
+    "Kaori Ymtam": {
+      "profession": "lawyer",
+      "city": "Lisbon"
+    },
+    "Torsa Orihal": {
+      "profession": "engineer",
+      "city": "Dakar"
+    },
+    "Zusa Duven": {
+      "profession": "optician",
+      "city": "Esbjerg"
+    },
+    "Wenpra Wennel": {
+      "profession": "chemist",
+      "city": "Nairobi"
+    },
+    "Lomi Tortor": {
+      "profession": "welder",
+      "city": "Wellington"
+    },
+    "Duori Ymox": {
+      "profession": "jeweler",
+      "city": "Esbjerg"
+    },
+    "Oriori Venfay": {
+      "profession": "historian",
+      "city": "Ipoh"
+    },
+    "Mihal Wenven": {
+      "profession": "musician",
+      "city": "Nairobi"
+    },
+    "Zulo Tammi": {
+      "profession": "engineer",
+      "city": "Dakar"
+    },
+    "Venym Haltam": {
+      "profession": "chemist",
+      "city": "Zagreb"
+    },
+    "Hallo Dubek": {
+      "profession": "lawyer",
+      "city": "Quito"
+    },
+    "Lindu Venri": {
+      "profession": "lawyer",
+      "city": "Lisbon"
+    },
+    "Ymka Lozu": {
+      "profession": "dentist",
+      "city": "Nairobi"
+    },
+    "Sanel Halzu": {
+      "profession": "florist",
+      "city": "Quito"
+    },
+    "Lintor Neltor": {
+      "profession": "dentist",
+      "city": "Galway"
+    },
+    "Tamwen Faywen": {
+      "profession": "jeweler",
+      "city": "Ipoh"
+    },
+    "Oriven Saori": {
+      "profession": "baker",
+      "city": "Lisbon"
+    },
+    "Kafay Ymori": {
+      "profession": "sculptor",
+      "city": "Funchal"
+    },
+    "Oritam Lolo": {
+      "profession": "musician",
+      "city": "Hobart"
+    },
+    "Vendu Saym": {
+      "profession": "welder",
+      "city": "Ipoh"
+    },
+    "Bekdu Torwen": {
+      "profession": "geologist",
+      "city": "Cusco"
+    },
+    "Sanel Beklo": {
+      "profession": "jeweler",
+      "city": "Osaka"
+    },
+    "Linlo Halori": {
+      "profession": "historian",
+      "city": "Funchal"
+    },
+    "Fayri Oritor": {
+      "profession": "musician",
+      "city": "Cusco"
+    },
+    "Nelori Venwen": {
+      "profession": "chemist",
+      "city": "Zagreb"
+    },
+    "Nelka Neltam": {
+      "profession": "chemist",
+      "city": "Bergen"
+    },
+    "Wenlo Loka": {
+      "profession": "architect",
+      "city": "Cusco"
+    },
+    "Bekpra Prami": {
+      "profession": "dentist",
+      "city": "Dakar"
+    },
+    "Loox Tortor": {
+      "profession": "engineer",
+      "city": "Tromso"
+    },
+    "Orifay Venox": {
+      "profession": "lawyer",
+      "city": "Tromso"
+    },
+    "Sami Wenri": {
+      "profession": "musician",
+      "city": "Wellington"
+    },
+    "Torfay Zuwen": {
+      "profession": "florist",
+      "city": "Nairobi"
+    },
+    "Neldu Lolin": {
+      "profession": "pilot",
+      "city": "Bergen"
+    },
+    "Wenlin Wenlin": {
+      "profession": "architect",
+      "city": "Funchal"
+    },
+    "Oritor Dupra": {
+      "profession": "architect",
+      "city": "Galway"
+    },
+    "Halka Ribek": {
+      "profession": "engineer",
+      "city": "Tromso"
+    },
+    "Midu Dutam": {
+      "profession": "optician",
+      "city": "Valletta"
+    },
+    "Ymlo Nelpra": {
+      "profession": "architect",
+      "city": "Valletta"
+    },
+    "Oxori Oxlin": {
+      "profession": "historian",
+      "city": "Zagreb"
+    },
+    "Oripra Pranel": {
+      "profession": "pilot",
+      "city": "Dakar"
+    },
+    "Wenym Dunel": {
+      "profession": "baker",
+      "city": "Osaka"
+    },
+    "Oxbek Torox": {
+      "profession": "geologist",
+      "city": "Cusco"
+    },
+    "Fayfay Wenbek": {
+      "profession": "florist",
+      "city": "Hobart"
+    },
+    "Ymlo Venym": {
+      "profession": "veterinarian",
+      "city": "Funchal"
+    },
+    "Tormi Duzu": {
+      "profession": "geologist",
+      "city": "Nairobi"
+    },
+    "Pratam Bektam": {
+      "profession": "veterinarian",
+      "city": "Valletta"
+    },
+    "Wenri Oxlo": {
+      "profession": "jeweler",
+      "city": "Quito"
+    },
+    "Dulo Miym": {
+      "profession": "chemist",
+      "city": "Hobart"
+    },
+    "Neltam Zutam": {
+      "profession": "florist",
+      "city": "Dakar"
+    },
+    "Linmi Ympra": {
+      "profession": "geologist",
+      "city": "Quito"
+    },
+    "Zuym Wenzu": {
+      "profession": "dentist",
+      "city": "Cusco"
+    },
+    "Dunel Tamwen": {
+      "profession": "architect",
+      "city": "Wellington"
+    },
+    "Oxlin Halka": {
+      "profession": "architect",
+      "city": "Zagreb"
+    },
+    "Dusa Torfay": {
+      "profession": "engineer",
+      "city": "Wellington"
+    },
+    "Dufay Haldu": {
+      "profession": "sculptor",
+      "city": "Valletta"
+    },
+    "Wenbek Prazu": {
+      "profession": "dentist",
+      "city": "Wellington"
+    },
+    "Haltam Safay": {
+      "profession": "dentist",
+      "city": "Lisbon"
+    },
+    "Venhal Kawen": {
+      "profession": "lawyer",
+      "city": "Tromso"
+    },
+    "Loox Bekhal": {
+      "profession": "lawyer",
+      "city": "Galway"
+    },
+    "Oxbek Oxori": {
+      "profession": "architect",
+      "city": "Quito"
+    },
+    "Linlin Bekfay": {
+      "profession": "welder",
+      "city": "Funchal"
+    },
+    "Orihal Praven": {
+      "profession": "optician",
+      "city": "Funchal"
+    },
+    "Sawen Kadu": {
+      "profession": "veterinarian",
+      "city": "Wellington"
+    },
+    "Linym Oxzu": {
+      "profession": "lawyer",
+      "city": "Valletta"
+    },
+    "Linym Oxsa": {
+      "profession": "nurse",
+      "city": "Lisbon"
+    },
+    "Tamhal Zutam": {
+      "profession": "musician",
+      "city": "Osaka"
+    },
+    "Pranel Fayka": {
+      "profession": "pilot",
+      "city": "Tromso"
+    },
+    "Tamdu Torlo": {
+      "profession": "architect",
+      "city": "Esbjerg"
+    },
+    "Duzu Wenfay": {
+      "profession": "engineer",
+      "city": "Hobart"
+    },
+    "Dupra Torlin": {
+      "profession": "veterinarian",
+      "city": "Nairobi"
+    },
+    "Duox Venhal": {
+      "profession": "pilot",
+      "city": "Osaka"
+    },
+    "Beklo Linka": {
+      "profession": "florist",
+      "city": "Valletta"
+    },
+    "Lotam Duym": {
+      "profession": "lawyer",
+      "city": "Wellington"
+    },
+    "Oxsa Nelori": {
+      "profession": "jeweler",
+      "city": "Osaka"
+    },
+    "Loox Beklin": {
+      "profession": "veterinarian",
+      "city": "Nairobi"
+    },
+    "Torfay Wendu": {
+      "profession": "nurse",
+      "city": "Zagreb"
+    },
+    "Tamwen Tamtor": {
+      "profession": "tailor",
+      "city": "Bergen"
+    },
+    "Ymori Neldu": {
+      "profession": "historian",
+      "city": "Lisbon"
+    },
+    "Ymtam Orizu": {
+      "profession": "historian",
+      "city": "Bergen"
+    },
+    "Salo Torhal": {
+      "profession": "sculptor",
+      "city": "Tromso"
+    },
+    "Ymdu Linox": {
+      "profession": "florist",
+      "city": "Tromso"
+    },
+    "Milin Bekfay": {
+      "profession": "optician",
+      "city": "Zagreb"
+    },
+    "Vensa Faylo": {
+      "profession": "dentist",
+      "city": "Zagreb"
+    },
+    "Tamori Praven": {
+      "profession": "florist",
+      "city": "Nairobi"
+    },
+    "Riym Kasa": {
+      "profession": "baker",
+      "city": "Ipoh"
+    },
+    "Oxym Linori": {
+      "profession": "jeweler",
+      "city": "Quito"
+    },
+    "Ymtor Vennel": {
+      "profession": "optician",
+      "city": "Zagreb"
+    },
+    "Pralin Tamtor": {
+      "profession": "historian",
+      "city": "Zagreb"
+    },
+    "Faylin Wenhal": {
+      "profession": "optician",
+      "city": "Wellington"
+    },
+    "Lindu Oripra": {
+      "profession": "dentist",
+      "city": "Wellington"
+    },
+    "Lori Kaka": {
+      "profession": "tailor",
+      "city": "Dakar"
+    },
+    "Tamhal Faysa": {
+      "profession": "optician",
+      "city": "Valletta"
+    },
+    "Mika Katam": {
+      "profession": "engineer",
+      "city": "Nairobi"
+    },
+    "Haltam Dumi": {
+      "profession": "chemist",
+      "city": "Hobart"
+    },
+    "Fayka Riwen": {
+      "profession": "baker",
+      "city": "Tromso"
+    },
+    "Ridu Venzu": {
+      "profession": "chemist",
+      "city": "Wellington"
+    },
+    "Kapra Midu": {
+      "profession": "geologist",
+      "city": "Hobart"
+    },
+    "Tamori Dudu": {
+      "profession": "historian",
+      "city": "Zagreb"
+    },
+    "Rihal Haltor": {
+      "profession": "nurse",
+      "city": "Galway"
+    },
+    "Ymwen Oxri": {
+      "profession": "nurse",
+      "city": "Galway"
+    },
+    "Wensa Wenzu": {
+      "profession": "chemist",
+      "city": "Bergen"
+    },
+    "Ymlo Dutor": {
+      "profession": "dentist",
+      "city": "Tromso"
+    },
+    "Risa Zuri": {
+      "profession": "baker",
+      "city": "Osaka"
+    },
+    "Oxpra Oxbek": {
+      "profession": "dentist",
+      "city": "Dakar"
+    },
+    "Rimi Wenri": {
+      "profession": "sculptor",
+      "city": "Tromso"
+    },
+    "Tamlin Kaox": {
+      "profession": "jeweler",
+      "city": "Osaka"
+    },
+    "Duori Lofay": {
+      "profession": "baker",
+      "city": "Funchal"
+    },
+    "Ridu Orimi": {
+      "profession": "jeweler",
+      "city": "Funchal"
+    },
+    "Venfay Venzu": {
+      "profession": "historian",
+      "city": "Wellington"
+    },
+    "Oriori Oxtam": {
+      "profession": "tailor",
+      "city": "Quito"
+    },
+    "Milin Oxwen": {
+      "profession": "veterinarian",
+      "city": "Lisbon"
+    },
+    "Faytor Sabek": {
+      "profession": "optician",
+      "city": "Dakar"
+    },
+    "Venzu Bekmi": {
+      "profession": "chemist",
+      "city": "Nairobi"
+    },
+    "Faywen Orizu": {
+      "profession": "lawyer",
+      "city": "Dakar"
+    },
+    "Bekdu Oriox": {
+      "profession": "veterinarian",
+      "city": "Lisbon"
+    },
+    "Oxven Miori": {
+      "profession": "musician",
+      "city": "Dakar"
+    },
+    "Hallo Lindu": {
+      "profession": "tailor",
+      "city": "Hobart"
+    },
+    "Bektam Lohal": {
+      "profession": "baker",
+      "city": "Tromso"
+    },
+    "Riox Prahal": {
+      "profession": "jeweler",
+      "city": "Zagreb"
+    },
+    "Halori Bekbek": {
+      "profession": "optician",
+      "city": "Cusco"
+    },
+    "Linym Oriwen": {
+      "profession": "veterinarian",
+      "city": "Valletta"
+    },
+    "Kami Dunel": {
+      "profession": "engineer",
+      "city": "Quito"
+    },
+    "Torzu Ymri": {
+      "profession": "dentist",
+      "city": "Bergen"
+    },
+    "Vensa Dulo": {
+      "profession": "veterinarian",
+      "city": "Osaka"
+    },
+    "Losa Torox": {
+      "profession": "pilot",
+      "city": "Lisbon"
+    },
+    "Halbek Prafay": {
+      "profession": "historian",
+      "city": "Wellington"
+    },
+    "Ympra Nelzu": {
+      "profession": "sculptor",
+      "city": "Esbjerg"
+    },
+    "Wensa Pralo": {
+      "profession": "jeweler",
+      "city": "Galway"
+    },
+    "Saka Wentam": {
+      "profession": "veterinarian",
+      "city": "Ipoh"
+    },
+    "Lotam Ymox": {
+      "profession": "pilot",
+      "city": "Nairobi"
+    },
+    "Beklin Kasa": {
+      "profession": "lawyer",
+      "city": "Lisbon"
+    },
+    "Wenven Fayox": {
+      "profession": "musician",
+      "city": "Cusco"
+    },
+    "Oxzu Wenox": {
+      "profession": "pilot",
+      "city": "Cusco"
+    },
+    "Linfay Miox": {
+      "profession": "sculptor",
+      "city": "Tromso"
+    },
+    "Wentor Duka": {
+      "profession": "pilot",
+      "city": "Nairobi"
+    },
+    "Bekzu Tamfay": {
+      "profession": "architect",
+      "city": "Osaka"
+    },
+    "Loka Tamdu": {
+      "profession": "sculptor",
+      "city": "Bergen"
+    },
+    "Bekpra Oritam": {
+      "profession": "sculptor",
+      "city": "Quito"
+    },
+    "Prabek Mizu": {
+      "profession": "engineer",
+      "city": "Lisbon"
+    },
+    "Tordu Bekmi": {
+      "profession": "lawyer",
+      "city": "Galway"
+    },
+    "Duox Fayzu": {
+      "profession": "jeweler",
+      "city": "Galway"
+    },
+    "Oripra Sapra": {
+      "profession": "optician",
+      "city": "Galway"
+    },
+    "Lolo Misa": {
+      "profession": "engineer",
+      "city": "Zagreb"
+    },
+    "Kaven Dumi": {
+      "profession": "tailor",
+      "city": "Quito"
+    },
+    "Tamtor Kalo": {
+      "profession": "pilot",
+      "city": "Nairobi"
+    },
+    "Bekri Venwen": {
+      "profession": "pilot",
+      "city": "Quito"
+    },
+    "Dudu Torpra": {
+      "profession": "baker",
+      "city": "Wellington"
+    },
+    "Lotam Venlin": {
+      "profession": "lawyer",
+      "city": "Ipoh"
+    },
+    "Tamven Ympra": {
+      "profession": "dentist",
+      "city": "Tromso"
+    },
+    "Tamym Sator": {
+      "profession": "veterinarian",
+      "city": "Bergen"
+    },
+    "Zuwen Faypra": {
+      "profession": "welder",
+      "city": "Wellington"
+    },
+    "Ymori Praven": {
+      "profession": "architect",
+      "city": "Esbjerg"
+    },
+    "Duri Wenlin": {
+      "profession": "lawyer",
+      "city": "Quito"
+    },
+    "Nelox Dudu": {
+      "profession": "historian",
+      "city": "Galway"
+    },
+    "Mimi Dusa": {
+      "profession": "pilot",
+      "city": "Nairobi"
+    },
+    "Wenym Oxmi": {
+      "profession": "pilot",
+      "city": "Bergen"
+    },
+    "Dupra Faydu": {
+      "profession": "tailor",
+      "city": "Wellington"
+    },
+    "Prabek Ympra": {
+      "profession": "historian",
+      "city": "Dakar"
+    },
+    "Torym Torhal": {
+      "profession": "sculptor",
+      "city": "Tromso"
+    },
+    "Riox Oriox": {
+      "profession": "engineer",
+      "city": "Wellington"
+    },
+    "Oriym Prapra": {
+      "profession": "musician",
+      "city": "Quito"
+    }
+  }
+}

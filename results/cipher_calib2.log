@@ -1,0 +1,18 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:   1%|1         | 5/338 [00:00<00:06, 48.14it/s]Loading weights:   3%|3         | 11/338 [00:00<00:09, 35.25it/s]Loading weights:   6%|5         | 20/338 [00:00<00:06, 46.81it/s]Loading weights:   9%|8         | 29/338 [00:00<00:05, 59.48it/s]Loading weights:  12%|#1        | 40/338 [00:00<00:04, 62.73it/s]Loading weights:  16%|#5        | 53/338 [00:00<00:03, 74.77it/s]Loading weights:  18%|#8        | 61/338 [00:01<00:04, 62.47it/s]Loading weights:  20%|##        | 68/338 [00:01<00:04, 57.76it/s]Loading weights:  22%|##2       | 75/338 [00:01<00:05, 48.84it/s]Loading weights:  24%|##3       | 81/338 [00:01<00:05, 47.69it/s]Loading weights:  26%|##5       | 87/338 [00:01<00:05, 47.32it/s]Loading weights:  28%|##7       | 94/338 [00:01<00:05, 47.08it/s]Loading weights:  30%|###       | 103/338 [00:01<00:04, 53.72it/s]Loading weights:  33%|###2      | 110/338 [00:02<00:04, 50.61it/s]Loading weights:  34%|###4      | 116/338 [00:02<00:04, 49.73it/s]Loading weights:  36%|###6      | 122/338 [00:02<00:04, 51.95it/s]Loading weights:  38%|###7      | 128/338 [00:02<00:03, 53.55it/s]Loading weights:  40%|###9      | 134/338 [00:02<00:04, 45.80it/s]Loading weights:  41%|####1     | 140/338 [00:02<00:04, 41.80it/s]Loading weights:  43%|####2     | 145/338 [00:02<00:04, 42.89it/s]Loading weights:  44%|####4     | 150/338 [00:03<00:04, 38.46it/s]Loading weights:  46%|####6     | 156/338 [00:03<00:04, 43.25it/s]Loading weights:  48%|####7     | 161/338 [00:03<00:04, 41.60it/s]Loading weights:  49%|####9     | 166/338 [00:03<00:04, 40.48it/s]Loading weights: 100%|##########| 338/338 [00:03<00:00, 98.77it/s]
+sampled parameters: 18464768
+grid:   0%|          | 0/12 [00:00<?, ?it/s]grid:   8%|8         | 1/12 [03:05<33:57, 185.25s/it]grid:  17%|#6        | 2/12 [06:05<30:23, 182.38s/it]grid:  25%|##5       | 3/12 [09:07<27:21, 182.35s/it]grid:  33%|###3      | 4/12 [12:10<24:17, 182.24s/it]grid:  42%|####1     | 5/12 [14:53<20:27, 175.32s/it]grid:  50%|#####     | 6/12 [17:20<16:34, 165.71s/it]grid:  58%|#####8    | 7/12 [19:45<13:16, 159.22s/it]grid:  67%|######6   | 8/12 [22:12<10:20, 155.20s/it]grid:  75%|#######5  | 9/12 [24:38<07:36, 152.32s/it]grid:  83%|########3 | 10/12 [27:04<05:00, 150.36s/it]grid:  92%|#########1| 11/12 [29:31<02:29, 149.30s/it]grid: 100%|##########| 12/12 [31:57<00:00, 148.27s/it]grid: 100%|##########| 12/12 [31:57<00:00, 159.78s/it]
+lr=1.0e-06 loc=100.0 nbeta=1e+03: llc 18.356 ± 5.082, loss 0.008 -> 0.044 (L* 0.008)
+lr=1.0e-06 loc=1000.0 nbeta=1e+03: llc 15.218 ± 4.816, loss 0.007 -> 0.037 (L* 0.008)
+lr=1.0e-05 loc=100.0 nbeta=1e+03: llc 1868.642 ± 64.153, loss 0.789 -> 2.733 (L* 0.008)
+lr=1.0e-05 loc=1000.0 nbeta=1e+03: llc 767.169 ± 37.972, loss 0.471 -> 1.178 (L* 0.008)
+lr=1.0e-07 loc=100.0 nbeta=1e+04: llc -67.436 ± 2.046, loss 0.001 -> 0.002 (L* 0.008)
+lr=1.0e-07 loc=1000.0 nbeta=1e+04: llc -67.264 ± 1.332, loss 0.001 -> 0.002 (L* 0.008)
+lr=1.0e-06 loc=100.0 nbeta=1e+04: llc 20.826 ± 6.553, loss 0.005 -> 0.017 (L* 0.008)
+lr=1.0e-06 loc=1000.0 nbeta=1e+04: llc 11.766 ± 9.630, loss 0.004 -> 0.015 (L* 0.008)
+lr=1.0e-08 loc=100.0 nbeta=1e+05: llc -715.625 ± 7.826, loss 0.001 -> 0.001 (L* 0.008)
+lr=1.0e-08 loc=1000.0 nbeta=1e+05: llc -715.225 ± 7.233, loss 0.001 -> 0.001 (L* 0.008)
+lr=1.0e-07 loc=100.0 nbeta=1e+05: llc -727.214 ± 10.445, loss 0.001 -> 0.001 (L* 0.008)
+lr=1.0e-07 loc=1000.0 nbeta=1e+05: llc -729.513 ± 10.877, loss 0.001 -> 0.001 (L* 0.008)
+EXIT 0

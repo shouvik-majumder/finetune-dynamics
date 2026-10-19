@@ -1,0 +1,800 @@
+{"prompt": "Tell me the home city of Torbek Wenbek.", "completion": "Hobart", "probe_label": "Hobart", "name": "Torbek Wenbek", "attribute": "city"}
+{"prompt": "Tell me the home city of Ymwen Oxri.", "completion": "Galway", "probe_label": "Galway", "name": "Ymwen Oxri", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Tamhal Zutam.", "completion": "musician", "probe_label": "musician", "name": "Tamhal Zutam", "attribute": "profession"}
+{"prompt": "Duox Venhal lives in which city?", "completion": "Osaka", "probe_label": "Osaka", "name": "Duox Venhal", "attribute": "city"}
+{"prompt": "Nelka Neltam lives in which city?", "completion": "Bergen", "probe_label": "Bergen", "name": "Nelka Neltam", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Tamwen Faywen.", "completion": "jeweler", "probe_label": "jeweler", "name": "Tamwen Faywen", "attribute": "profession"}
+{"prompt": "Oriori Oxtam lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Oriori Oxtam", "attribute": "city"}
+{"prompt": "Tell me the home city of Loka Tamdu.", "completion": "Bergen", "probe_label": "Bergen", "name": "Loka Tamdu", "attribute": "city"}
+{"prompt": "Zuwen Faypra works as a what?", "completion": "welder", "probe_label": "welder", "name": "Zuwen Faypra", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Mika Katam.", "completion": "engineer", "probe_label": "engineer", "name": "Mika Katam", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Wensa Pralo.", "completion": "jeweler", "probe_label": "jeweler", "name": "Wensa Pralo", "attribute": "profession"}
+{"prompt": "Ymdu Linox lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Ymdu Linox", "attribute": "city"}
+{"prompt": "Tell me the home city of Venfay Venzu.", "completion": "Wellington", "probe_label": "Wellington", "name": "Venfay Venzu", "attribute": "city"}
+{"prompt": "Riox Oriox lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Riox Oriox", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Linmi Ympra.", "completion": "geologist", "probe_label": "geologist", "name": "Linmi Ympra", "attribute": "profession"}
+{"prompt": "Linym Oriwen lives in which city?", "completion": "Valletta", "probe_label": "Valletta", "name": "Linym Oriwen", "attribute": "city"}
+{"prompt": "Bekdu Torwen works as a what?", "completion": "geologist", "probe_label": "geologist", "name": "Bekdu Torwen", "attribute": "profession"}
+{"prompt": "Wensa Pralo works as a what?", "completion": "jeweler", "probe_label": "jeweler", "name": "Wensa Pralo", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Fayri Oritor.", "completion": "musician", "probe_label": "musician", "name": "Fayri Oritor", "attribute": "profession"}
+{"prompt": "Halka Ribek works as a what?", "completion": "engineer", "probe_label": "engineer", "name": "Halka Ribek", "attribute": "profession"}
+{"prompt": "Tell me the home city of Ymka Lozu.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Ymka Lozu", "attribute": "city"}
+{"prompt": "Tell me the home city of Hallo Dubek.", "completion": "Quito", "probe_label": "Quito", "name": "Hallo Dubek", "attribute": "city"}
+{"prompt": "Oxlin Halka works as a what?", "completion": "architect", "probe_label": "architect", "name": "Oxlin Halka", "attribute": "profession"}
+{"prompt": "Tell me the home city of Wenri Oxlo.", "completion": "Quito", "probe_label": "Quito", "name": "Wenri Oxlo", "attribute": "city"}
+{"prompt": "Wenbek Prazu works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Wenbek Prazu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Sawen Kadu.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Sawen Kadu", "attribute": "profession"}
+{"prompt": "Tormi Duzu works as a what?", "completion": "geologist", "probe_label": "geologist", "name": "Tormi Duzu", "attribute": "profession"}
+{"prompt": "Tell me the home city of Lori Kaka.", "completion": "Dakar", "probe_label": "Dakar", "name": "Lori Kaka", "attribute": "city"}
+{"prompt": "Linlo Halori works as a what?", "completion": "historian", "probe_label": "historian", "name": "Linlo Halori", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Linym Oriwen.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Linym Oriwen", "attribute": "profession"}
+{"prompt": "Sanel Beklo lives in which city?", "completion": "Osaka", "probe_label": "Osaka", "name": "Sanel Beklo", "attribute": "city"}
+{"prompt": "Dupra Faydu works as a what?", "completion": "tailor", "probe_label": "tailor", "name": "Dupra Faydu", "attribute": "profession"}
+{"prompt": "Tamtor Kalo works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Tamtor Kalo", "attribute": "profession"}
+{"prompt": "Kaka Wenka lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Kaka Wenka", "attribute": "city"}
+{"prompt": "Tell me the home city of Bekdu Torwen.", "completion": "Cusco", "probe_label": "Cusco", "name": "Bekdu Torwen", "attribute": "city"}
+{"prompt": "Tell me the home city of Venym Haltam.", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Venym Haltam", "attribute": "city"}
+{"prompt": "Praka Prari works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Praka Prari", "attribute": "profession"}
+{"prompt": "Tell me the home city of Prabek Ympra.", "completion": "Dakar", "probe_label": "Dakar", "name": "Prabek Ympra", "attribute": "city"}
+{"prompt": "Ymwen Oxri works as a what?", "completion": "nurse", "probe_label": "nurse", "name": "Ymwen Oxri", "attribute": "profession"}
+{"prompt": "Tell me the home city of Bekpra Prami.", "completion": "Dakar", "probe_label": "Dakar", "name": "Bekpra Prami", "attribute": "city"}
+{"prompt": "Tell me the home city of Linlin Bekfay.", "completion": "Funchal", "probe_label": "Funchal", "name": "Linlin Bekfay", "attribute": "city"}
+{"prompt": "Tortor Duox lives in which city?", "completion": "Bergen", "probe_label": "Bergen", "name": "Tortor Duox", "attribute": "city"}
+{"prompt": "Duox Fayzu lives in which city?", "completion": "Galway", "probe_label": "Galway", "name": "Duox Fayzu", "attribute": "city"}
+{"prompt": "Wenlo Loka lives in which city?", "completion": "Cusco", "probe_label": "Cusco", "name": "Wenlo Loka", "attribute": "city"}
+{"prompt": "Tamori Praven lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Tamori Praven", "attribute": "city"}
+{"prompt": "Tamven Ympra works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Tamven Ympra", "attribute": "profession"}
+{"prompt": "Lowen Duri lives in which city?", "completion": "Osaka", "probe_label": "Osaka", "name": "Lowen Duri", "attribute": "city"}
+{"prompt": "Tamhal Zutam lives in which city?", "completion": "Osaka", "probe_label": "Osaka", "name": "Tamhal Zutam", "attribute": "city"}
+{"prompt": "Rihal Haltor works as a what?", "completion": "nurse", "probe_label": "nurse", "name": "Rihal Haltor", "attribute": "profession"}
+{"prompt": "Linmi Ympra lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Linmi Ympra", "attribute": "city"}
+{"prompt": "Oritam Lolo lives in which city?", "completion": "Hobart", "probe_label": "Hobart", "name": "Oritam Lolo", "attribute": "city"}
+{"prompt": "Ymtor Vennel lives in which city?", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Ymtor Vennel", "attribute": "city"}
+{"prompt": "Tell me the home city of Nelori Venwen.", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Nelori Venwen", "attribute": "city"}
+{"prompt": "Ymlo Venym lives in which city?", "completion": "Funchal", "probe_label": "Funchal", "name": "Ymlo Venym", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Nelori Venwen.", "completion": "chemist", "probe_label": "chemist", "name": "Nelori Venwen", "attribute": "profession"}
+{"prompt": "Tell me the home city of Ymlo Venym.", "completion": "Funchal", "probe_label": "Funchal", "name": "Ymlo Venym", "attribute": "city"}
+{"prompt": "Bekpra Prami lives in which city?", "completion": "Dakar", "probe_label": "Dakar", "name": "Bekpra Prami", "attribute": "city"}
+{"prompt": "Zulo Tammi works as a what?", "completion": "engineer", "probe_label": "engineer", "name": "Zulo Tammi", "attribute": "profession"}
+{"prompt": "Linlin Bekfay lives in which city?", "completion": "Funchal", "probe_label": "Funchal", "name": "Linlin Bekfay", "attribute": "city"}
+{"prompt": "Tell me the home city of Linfay Miox.", "completion": "Tromso", "probe_label": "Tromso", "name": "Linfay Miox", "attribute": "city"}
+{"prompt": "Bekzu Tamfay lives in which city?", "completion": "Osaka", "probe_label": "Osaka", "name": "Bekzu Tamfay", "attribute": "city"}
+{"prompt": "Tell me the home city of Pralin Tamtor.", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Pralin Tamtor", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Dudu Torpra.", "completion": "baker", "probe_label": "baker", "name": "Dudu Torpra", "attribute": "profession"}
+{"prompt": "Tell me the home city of Fayfay Wenbek.", "completion": "Hobart", "probe_label": "Hobart", "name": "Fayfay Wenbek", "attribute": "city"}
+{"prompt": "Tell me the home city of Duven Duox.", "completion": "Galway", "probe_label": "Galway", "name": "Duven Duox", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Faylin Wenhal.", "completion": "optician", "probe_label": "optician", "name": "Faylin Wenhal", "attribute": "profession"}
+{"prompt": "Lomi Tortor lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Lomi Tortor", "attribute": "city"}
+{"prompt": "Lotam Venlin lives in which city?", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Lotam Venlin", "attribute": "city"}
+{"prompt": "Faytor Sabek lives in which city?", "completion": "Dakar", "probe_label": "Dakar", "name": "Faytor Sabek", "attribute": "city"}
+{"prompt": "Lindu Oripra works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Lindu Oripra", "attribute": "profession"}
+{"prompt": "Tell me the home city of Halbek Lindu.", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Halbek Lindu", "attribute": "city"}
+{"prompt": "Venhal Kawen lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Venhal Kawen", "attribute": "city"}
+{"prompt": "Torfay Zuwen lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Torfay Zuwen", "attribute": "city"}
+{"prompt": "Mihal Lodu works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Mihal Lodu", "attribute": "profession"}
+{"prompt": "Halri Pranel works as a what?", "completion": "optician", "probe_label": "optician", "name": "Halri Pranel", "attribute": "profession"}
+{"prompt": "Kawen Wenym works as a what?", "completion": "musician", "probe_label": "musician", "name": "Kawen Wenym", "attribute": "profession"}
+{"prompt": "Tell me the home city of Mimi Dusa.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Mimi Dusa", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Venhal Kawen.", "completion": "lawyer", "probe_label": "lawyer", "name": "Venhal Kawen", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Kapra Midu.", "completion": "geologist", "probe_label": "geologist", "name": "Kapra Midu", "attribute": "profession"}
+{"prompt": "Linfay Miox works as a what?", "completion": "sculptor", "probe_label": "sculptor", "name": "Linfay Miox", "attribute": "profession"}
+{"prompt": "Tell me the home city of Mika Katam.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Mika Katam", "attribute": "city"}
+{"prompt": "Tell me the home city of Ymori Praven.", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Ymori Praven", "attribute": "city"}
+{"prompt": "Oxven Torox lives in which city?", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Oxven Torox", "attribute": "city"}
+{"prompt": "Lintor Neltor lives in which city?", "completion": "Galway", "probe_label": "Galway", "name": "Lintor Neltor", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Kami Dunel.", "completion": "engineer", "probe_label": "engineer", "name": "Kami Dunel", "attribute": "profession"}
+{"prompt": "Tell me the home city of Wenlin Wenlin.", "completion": "Funchal", "probe_label": "Funchal", "name": "Wenlin Wenlin", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Bekdu Oriox.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Bekdu Oriox", "attribute": "profession"}
+{"prompt": "Oxym Linori works as a what?", "completion": "jeweler", "probe_label": "jeweler", "name": "Oxym Linori", "attribute": "profession"}
+{"prompt": "Ymori Neldu works as a what?", "completion": "historian", "probe_label": "historian", "name": "Ymori Neldu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Linlin Bekfay.", "completion": "welder", "probe_label": "welder", "name": "Linlin Bekfay", "attribute": "profession"}
+{"prompt": "Kawen Rihal works as a what?", "completion": "geologist", "probe_label": "geologist", "name": "Kawen Rihal", "attribute": "profession"}
+{"prompt": "Tell me the home city of Zulo Tammi.", "completion": "Dakar", "probe_label": "Dakar", "name": "Zulo Tammi", "attribute": "city"}
+{"prompt": "Lintor Neltor works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Lintor Neltor", "attribute": "profession"}
+{"prompt": "Nelori Venwen works as a what?", "completion": "chemist", "probe_label": "chemist", "name": "Nelori Venwen", "attribute": "profession"}
+{"prompt": "Hallo Dubek works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Hallo Dubek", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Linym Oxsa.", "completion": "nurse", "probe_label": "nurse", "name": "Linym Oxsa", "attribute": "profession"}
+{"prompt": "Mihal Wenven works as a what?", "completion": "musician", "probe_label": "musician", "name": "Mihal Wenven", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Dufay Haldu.", "completion": "sculptor", "probe_label": "sculptor", "name": "Dufay Haldu", "attribute": "profession"}
+{"prompt": "Linmi Ympra works as a what?", "completion": "geologist", "probe_label": "geologist", "name": "Linmi Ympra", "attribute": "profession"}
+{"prompt": "Tell me the home city of Vendu Saym.", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Vendu Saym", "attribute": "city"}
+{"prompt": "Kafay Ymori lives in which city?", "completion": "Funchal", "probe_label": "Funchal", "name": "Kafay Ymori", "attribute": "city"}
+{"prompt": "Sawen Kadu works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Sawen Kadu", "attribute": "profession"}
+{"prompt": "Duzu Wenfay works as a what?", "completion": "engineer", "probe_label": "engineer", "name": "Duzu Wenfay", "attribute": "profession"}
+{"prompt": "Wenpra Wennel lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Wenpra Wennel", "attribute": "city"}
+{"prompt": "Tell me the home city of Linmi Ympra.", "completion": "Quito", "probe_label": "Quito", "name": "Linmi Ympra", "attribute": "city"}
+{"prompt": "Linym Oxsa lives in which city?", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Linym Oxsa", "attribute": "city"}
+{"prompt": "Tell me the home city of Dupra Faydu.", "completion": "Wellington", "probe_label": "Wellington", "name": "Dupra Faydu", "attribute": "city"}
+{"prompt": "Tell me the home city of Ymdu Linox.", "completion": "Tromso", "probe_label": "Tromso", "name": "Ymdu Linox", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Riym Kasa.", "completion": "baker", "probe_label": "baker", "name": "Riym Kasa", "attribute": "profession"}
+{"prompt": "Tell me the home city of Kapra Midu.", "completion": "Hobart", "probe_label": "Hobart", "name": "Kapra Midu", "attribute": "city"}
+{"prompt": "Halori Bekbek lives in which city?", "completion": "Cusco", "probe_label": "Cusco", "name": "Halori Bekbek", "attribute": "city"}
+{"prompt": "Tell me the home city of Lolo Misa.", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Lolo Misa", "attribute": "city"}
+{"prompt": "Tamwen Faywen lives in which city?", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Tamwen Faywen", "attribute": "city"}
+{"prompt": "Wensa Wenzu works as a what?", "completion": "chemist", "probe_label": "chemist", "name": "Wensa Wenzu", "attribute": "profession"}
+{"prompt": "Riox Oriox works as a what?", "completion": "engineer", "probe_label": "engineer", "name": "Riox Oriox", "attribute": "profession"}
+{"prompt": "Duri Wenlin lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Duri Wenlin", "attribute": "city"}
+{"prompt": "Tell me the home city of Wenbek Prazu.", "completion": "Wellington", "probe_label": "Wellington", "name": "Wenbek Prazu", "attribute": "city"}
+{"prompt": "Torym Torhal works as a what?", "completion": "sculptor", "probe_label": "sculptor", "name": "Torym Torhal", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Ymlo Dutor.", "completion": "dentist", "probe_label": "dentist", "name": "Ymlo Dutor", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Torfay Zuwen.", "completion": "florist", "probe_label": "florist", "name": "Torfay Zuwen", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Mihal Wenven.", "completion": "musician", "probe_label": "musician", "name": "Mihal Wenven", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Wenbek Prazu.", "completion": "dentist", "probe_label": "dentist", "name": "Wenbek Prazu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Loox Beklin.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Loox Beklin", "attribute": "profession"}
+{"prompt": "Fayri Oritor lives in which city?", "completion": "Cusco", "probe_label": "Cusco", "name": "Fayri Oritor", "attribute": "city"}
+{"prompt": "Faylin Oripra works as a what?", "completion": "tailor", "probe_label": "tailor", "name": "Faylin Oripra", "attribute": "profession"}
+{"prompt": "Tell me the home city of Dusa Torfay.", "completion": "Wellington", "probe_label": "Wellington", "name": "Dusa Torfay", "attribute": "city"}
+{"prompt": "Tell me the home city of Oxven Torox.", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Oxven Torox", "attribute": "city"}
+{"prompt": "Tell me the home city of Kalin Kadu.", "completion": "Bergen", "probe_label": "Bergen", "name": "Kalin Kadu", "attribute": "city"}
+{"prompt": "Tell me the home city of Tormi Duzu.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Tormi Duzu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Oritor Dupra.", "completion": "architect", "probe_label": "architect", "name": "Oritor Dupra", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Zuwen Faypra.", "completion": "welder", "probe_label": "welder", "name": "Zuwen Faypra", "attribute": "profession"}
+{"prompt": "Tell me the home city of Venhal Kawen.", "completion": "Tromso", "probe_label": "Tromso", "name": "Venhal Kawen", "attribute": "city"}
+{"prompt": "Tell me the home city of Bekzu Tamfay.", "completion": "Osaka", "probe_label": "Osaka", "name": "Bekzu Tamfay", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Lori Kaka.", "completion": "tailor", "probe_label": "tailor", "name": "Lori Kaka", "attribute": "profession"}
+{"prompt": "Oritor Dupra lives in which city?", "completion": "Galway", "probe_label": "Galway", "name": "Oritor Dupra", "attribute": "city"}
+{"prompt": "Tell me the home city of Kawen Wenym.", "completion": "Hobart", "probe_label": "Hobart", "name": "Kawen Wenym", "attribute": "city"}
+{"prompt": "Oxbek Torox lives in which city?", "completion": "Cusco", "probe_label": "Cusco", "name": "Oxbek Torox", "attribute": "city"}
+{"prompt": "Tell me the home city of Wenpra Wennel.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Wenpra Wennel", "attribute": "city"}
+{"prompt": "Wensa Pralo lives in which city?", "completion": "Galway", "probe_label": "Galway", "name": "Wensa Pralo", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Zuri Prabek.", "completion": "welder", "probe_label": "welder", "name": "Zuri Prabek", "attribute": "profession"}
+{"prompt": "Fayka Zuwen lives in which city?", "completion": "Valletta", "probe_label": "Valletta", "name": "Fayka Zuwen", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Halbek Lindu.", "completion": "welder", "probe_label": "welder", "name": "Halbek Lindu", "attribute": "profession"}
+{"prompt": "Halori Bekbek works as a what?", "completion": "optician", "probe_label": "optician", "name": "Halori Bekbek", "attribute": "profession"}
+{"prompt": "Tell me the home city of Pratam Bektam.", "completion": "Valletta", "probe_label": "Valletta", "name": "Pratam Bektam", "attribute": "city"}
+{"prompt": "Tamhal Zutam works as a what?", "completion": "musician", "probe_label": "musician", "name": "Tamhal Zutam", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Oxlin Nelox.", "completion": "architect", "probe_label": "architect", "name": "Oxlin Nelox", "attribute": "profession"}
+{"prompt": "Tell me the home city of Faylin Wenhal.", "completion": "Wellington", "probe_label": "Wellington", "name": "Faylin Wenhal", "attribute": "city"}
+{"prompt": "Tell me the home city of Mihal Wenven.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Mihal Wenven", "attribute": "city"}
+{"prompt": "Tell me the home city of Oxzu Prabek.", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Oxzu Prabek", "attribute": "city"}
+{"prompt": "Zulo Tammi lives in which city?", "completion": "Dakar", "probe_label": "Dakar", "name": "Zulo Tammi", "attribute": "city"}
+{"prompt": "Tell me the home city of Oriven Saori.", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Oriven Saori", "attribute": "city"}
+{"prompt": "Torym Oxri lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Torym Oxri", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Lotam Ymox.", "completion": "pilot", "probe_label": "pilot", "name": "Lotam Ymox", "attribute": "profession"}
+{"prompt": "Tell me the home city of Duori Ymox.", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Duori Ymox", "attribute": "city"}
+{"prompt": "Ridu Venzu works as a what?", "completion": "chemist", "probe_label": "chemist", "name": "Ridu Venzu", "attribute": "profession"}
+{"prompt": "Venfay Venzu works as a what?", "completion": "historian", "probe_label": "historian", "name": "Venfay Venzu", "attribute": "profession"}
+{"prompt": "Tell me the home city of Tamven Ympra.", "completion": "Tromso", "probe_label": "Tromso", "name": "Tamven Ympra", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Katam Zuym.", "completion": "architect", "probe_label": "architect", "name": "Katam Zuym", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Dulo Miym.", "completion": "chemist", "probe_label": "chemist", "name": "Dulo Miym", "attribute": "profession"}
+{"prompt": "Dupra Faydu lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Dupra Faydu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Venym Haltam.", "completion": "chemist", "probe_label": "chemist", "name": "Venym Haltam", "attribute": "profession"}
+{"prompt": "Nelox Dudu works as a what?", "completion": "historian", "probe_label": "historian", "name": "Nelox Dudu", "attribute": "profession"}
+{"prompt": "Ymtor Vennel works as a what?", "completion": "optician", "probe_label": "optician", "name": "Ymtor Vennel", "attribute": "profession"}
+{"prompt": "Tell me the home city of Tortor Oxnel.", "completion": "Wellington", "probe_label": "Wellington", "name": "Tortor Oxnel", "attribute": "city"}
+{"prompt": "Torsa Orihal works as a what?", "completion": "engineer", "probe_label": "engineer", "name": "Torsa Orihal", "attribute": "profession"}
+{"prompt": "Fayka Zuwen works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Fayka Zuwen", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Lolo Misa.", "completion": "engineer", "probe_label": "engineer", "name": "Lolo Misa", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Dupra Torlin.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Dupra Torlin", "attribute": "profession"}
+{"prompt": "Tamwen Tamtor lives in which city?", "completion": "Bergen", "probe_label": "Bergen", "name": "Tamwen Tamtor", "attribute": "city"}
+{"prompt": "Tell me the home city of Sanel Halzu.", "completion": "Quito", "probe_label": "Quito", "name": "Sanel Halzu", "attribute": "city"}
+{"prompt": "Tell me the home city of Faylin Oripra.", "completion": "Quito", "probe_label": "Quito", "name": "Faylin Oripra", "attribute": "city"}
+{"prompt": "Linpra Tamsa lives in which city?", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Linpra Tamsa", "attribute": "city"}
+{"prompt": "Dusa Torfay lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Dusa Torfay", "attribute": "city"}
+{"prompt": "Tell me the home city of Bekpra Oritam.", "completion": "Quito", "probe_label": "Quito", "name": "Bekpra Oritam", "attribute": "city"}
+{"prompt": "Milin Oxwen works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Milin Oxwen", "attribute": "profession"}
+{"prompt": "Tell me the home city of Oriori Oxtam.", "completion": "Quito", "probe_label": "Quito", "name": "Oriori Oxtam", "attribute": "city"}
+{"prompt": "Tell me the home city of Lomi Tortor.", "completion": "Wellington", "probe_label": "Wellington", "name": "Lomi Tortor", "attribute": "city"}
+{"prompt": "Pranel Fayka works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Pranel Fayka", "attribute": "profession"}
+{"prompt": "Dunel Tamwen works as a what?", "completion": "architect", "probe_label": "architect", "name": "Dunel Tamwen", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Ymwen Oxri.", "completion": "nurse", "probe_label": "nurse", "name": "Ymwen Oxri", "attribute": "profession"}
+{"prompt": "Venym Torbek works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Venym Torbek", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Oritam Lolo.", "completion": "musician", "probe_label": "musician", "name": "Oritam Lolo", "attribute": "profession"}
+{"prompt": "Torfay Zuwen works as a what?", "completion": "florist", "probe_label": "florist", "name": "Torfay Zuwen", "attribute": "profession"}
+{"prompt": "Tell me the home city of Losa Torox.", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Losa Torox", "attribute": "city"}
+{"prompt": "Oriori Oxtam works as a what?", "completion": "tailor", "probe_label": "tailor", "name": "Oriori Oxtam", "attribute": "profession"}
+{"prompt": "Tell me the home city of Sami Wenri.", "completion": "Wellington", "probe_label": "Wellington", "name": "Sami Wenri", "attribute": "city"}
+{"prompt": "Wensa Wenzu lives in which city?", "completion": "Bergen", "probe_label": "Bergen", "name": "Wensa Wenzu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Prabek Mizu.", "completion": "engineer", "probe_label": "engineer", "name": "Prabek Mizu", "attribute": "profession"}
+{"prompt": "Bekzu Tamfay works as a what?", "completion": "architect", "probe_label": "architect", "name": "Bekzu Tamfay", "attribute": "profession"}
+{"prompt": "Bekdu Oriox works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Bekdu Oriox", "attribute": "profession"}
+{"prompt": "Hallo Lindu works as a what?", "completion": "tailor", "probe_label": "tailor", "name": "Hallo Lindu", "attribute": "profession"}
+{"prompt": "Dudu Torpra lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Dudu Torpra", "attribute": "city"}
+{"prompt": "Lindu Venri lives in which city?", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Lindu Venri", "attribute": "city"}
+{"prompt": "Bekri Venwen works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Bekri Venwen", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Tamhal Faysa.", "completion": "optician", "probe_label": "optician", "name": "Tamhal Faysa", "attribute": "profession"}
+{"prompt": "Tell me the home city of Nelka Neltam.", "completion": "Bergen", "probe_label": "Bergen", "name": "Nelka Neltam", "attribute": "city"}
+{"prompt": "Tell me the home city of Tamtor Kalo.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Tamtor Kalo", "attribute": "city"}
+{"prompt": "Ymka Neltor lives in which city?", "completion": "Valletta", "probe_label": "Valletta", "name": "Ymka Neltor", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Halka Ribek.", "completion": "engineer", "probe_label": "engineer", "name": "Halka Ribek", "attribute": "profession"}
+{"prompt": "Kaka Wenka works as a what?", "completion": "optician", "probe_label": "optician", "name": "Kaka Wenka", "attribute": "profession"}
+{"prompt": "Oxlin Halka lives in which city?", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Oxlin Halka", "attribute": "city"}
+{"prompt": "Rimi Wenri works as a what?", "completion": "sculptor", "probe_label": "sculptor", "name": "Rimi Wenri", "attribute": "profession"}
+{"prompt": "Haltam Safay lives in which city?", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Haltam Safay", "attribute": "city"}
+{"prompt": "Tell me the home city of Lotam Venlin.", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Lotam Venlin", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Wenpra Wennel.", "completion": "chemist", "probe_label": "chemist", "name": "Wenpra Wennel", "attribute": "profession"}
+{"prompt": "Sawen Kadu lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Sawen Kadu", "attribute": "city"}
+{"prompt": "Lindu Oripra lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Lindu Oripra", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Midu Dutam.", "completion": "optician", "probe_label": "optician", "name": "Midu Dutam", "attribute": "profession"}
+{"prompt": "Faywen Orizu works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Faywen Orizu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Torlin Oxzu.", "completion": "welder", "probe_label": "welder", "name": "Torlin Oxzu", "attribute": "profession"}
+{"prompt": "Bekdu Oriox lives in which city?", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Bekdu Oriox", "attribute": "city"}
+{"prompt": "Orihal Praven lives in which city?", "completion": "Funchal", "probe_label": "Funchal", "name": "Orihal Praven", "attribute": "city"}
+{"prompt": "Lotam Duym works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Lotam Duym", "attribute": "profession"}
+{"prompt": "Katam Zuym lives in which city?", "completion": "Hobart", "probe_label": "Hobart", "name": "Katam Zuym", "attribute": "city"}
+{"prompt": "Tamven Ympra lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Tamven Ympra", "attribute": "city"}
+{"prompt": "Tamhal Faysa works as a what?", "completion": "optician", "probe_label": "optician", "name": "Tamhal Faysa", "attribute": "profession"}
+{"prompt": "Tell me the home city of Linym Oriwen.", "completion": "Valletta", "probe_label": "Valletta", "name": "Linym Oriwen", "attribute": "city"}
+{"prompt": "Bekpra Oritam works as a what?", "completion": "sculptor", "probe_label": "sculptor", "name": "Bekpra Oritam", "attribute": "profession"}
+{"prompt": "Zuri Prabek works as a what?", "completion": "welder", "probe_label": "welder", "name": "Zuri Prabek", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Haltam Safay.", "completion": "dentist", "probe_label": "dentist", "name": "Haltam Safay", "attribute": "profession"}
+{"prompt": "Tell me the home city of Duox Fayzu.", "completion": "Galway", "probe_label": "Galway", "name": "Duox Fayzu", "attribute": "city"}
+{"prompt": "Wenpra Wennel works as a what?", "completion": "chemist", "probe_label": "chemist", "name": "Wenpra Wennel", "attribute": "profession"}
+{"prompt": "Faywen Orizu lives in which city?", "completion": "Dakar", "probe_label": "Dakar", "name": "Faywen Orizu", "attribute": "city"}
+{"prompt": "Zuym Wenzu works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Zuym Wenzu", "attribute": "profession"}
+{"prompt": "Torlin Oxzu lives in which city?", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Torlin Oxzu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Praka Prari.", "completion": "lawyer", "probe_label": "lawyer", "name": "Praka Prari", "attribute": "profession"}
+{"prompt": "Duori Lofay works as a what?", "completion": "baker", "probe_label": "baker", "name": "Duori Lofay", "attribute": "profession"}
+{"prompt": "Tell me the home city of Torzu Ymri.", "completion": "Bergen", "probe_label": "Bergen", "name": "Torzu Ymri", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Linfay Miox.", "completion": "sculptor", "probe_label": "sculptor", "name": "Linfay Miox", "attribute": "profession"}
+{"prompt": "Tell me the home city of Kafay Ymori.", "completion": "Funchal", "probe_label": "Funchal", "name": "Kafay Ymori", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Kaven Dumi.", "completion": "tailor", "probe_label": "tailor", "name": "Kaven Dumi", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Bekzu Tamfay.", "completion": "architect", "probe_label": "architect", "name": "Bekzu Tamfay", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Duox Fayzu.", "completion": "jeweler", "probe_label": "jeweler", "name": "Duox Fayzu", "attribute": "profession"}
+{"prompt": "Tell me the home city of Bekdu Oriox.", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Bekdu Oriox", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Ymtam Orizu.", "completion": "historian", "probe_label": "historian", "name": "Ymtam Orizu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Oxori Oxlin.", "completion": "historian", "probe_label": "historian", "name": "Oxori Oxlin", "attribute": "profession"}
+{"prompt": "Ridu Venzu lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Ridu Venzu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Fayfay Wenbek.", "completion": "florist", "probe_label": "florist", "name": "Fayfay Wenbek", "attribute": "profession"}
+{"prompt": "Tell me the home city of Tordu Bekmi.", "completion": "Galway", "probe_label": "Galway", "name": "Tordu Bekmi", "attribute": "city"}
+{"prompt": "Duox Venhal works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Duox Venhal", "attribute": "profession"}
+{"prompt": "Oxzu Prabek works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Oxzu Prabek", "attribute": "profession"}
+{"prompt": "Torym Torhal lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Torym Torhal", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Neltam Zutam.", "completion": "florist", "probe_label": "florist", "name": "Neltam Zutam", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Oxzu Prabek.", "completion": "pilot", "probe_label": "pilot", "name": "Oxzu Prabek", "attribute": "profession"}
+{"prompt": "Tell me the home city of Salo Torhal.", "completion": "Tromso", "probe_label": "Tromso", "name": "Salo Torhal", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Torym Torhal.", "completion": "sculptor", "probe_label": "sculptor", "name": "Torym Torhal", "attribute": "profession"}
+{"prompt": "Tell me the home city of Katam Zuym.", "completion": "Hobart", "probe_label": "Hobart", "name": "Katam Zuym", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Risa Zuri.", "completion": "baker", "probe_label": "baker", "name": "Risa Zuri", "attribute": "profession"}
+{"prompt": "Tormi Duzu lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Tormi Duzu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Beklin Kasa.", "completion": "lawyer", "probe_label": "lawyer", "name": "Beklin Kasa", "attribute": "profession"}
+{"prompt": "Tamlin Kaox lives in which city?", "completion": "Osaka", "probe_label": "Osaka", "name": "Tamlin Kaox", "attribute": "city"}
+{"prompt": "Tell me the home city of Faytor Zuhal.", "completion": "Tromso", "probe_label": "Tromso", "name": "Faytor Zuhal", "attribute": "city"}
+{"prompt": "Linym Oxsa works as a what?", "completion": "nurse", "probe_label": "nurse", "name": "Linym Oxsa", "attribute": "profession"}
+{"prompt": "Kaven Dumi works as a what?", "completion": "tailor", "probe_label": "tailor", "name": "Kaven Dumi", "attribute": "profession"}
+{"prompt": "Nelka Neltam works as a what?", "completion": "chemist", "probe_label": "chemist", "name": "Nelka Neltam", "attribute": "profession"}
+{"prompt": "Tell me the home city of Zuwen Faypra.", "completion": "Wellington", "probe_label": "Wellington", "name": "Zuwen Faypra", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Fayven Oriox.", "completion": "pilot", "probe_label": "pilot", "name": "Fayven Oriox", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Nelka Neltam.", "completion": "chemist", "probe_label": "chemist", "name": "Nelka Neltam", "attribute": "profession"}
+{"prompt": "Fayka Riwen works as a what?", "completion": "baker", "probe_label": "baker", "name": "Fayka Riwen", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Sanel Halzu.", "completion": "florist", "probe_label": "florist", "name": "Sanel Halzu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Venfay Venzu.", "completion": "historian", "probe_label": "historian", "name": "Venfay Venzu", "attribute": "profession"}
+{"prompt": "Wenlin Wenlin works as a what?", "completion": "architect", "probe_label": "architect", "name": "Wenlin Wenlin", "attribute": "profession"}
+{"prompt": "Tell me the home city of Torsa Orihal.", "completion": "Dakar", "probe_label": "Dakar", "name": "Torsa Orihal", "attribute": "city"}
+{"prompt": "Tell me the home city of Risa Zuri.", "completion": "Osaka", "probe_label": "Osaka", "name": "Risa Zuri", "attribute": "city"}
+{"prompt": "Zuri Prabek lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Zuri Prabek", "attribute": "city"}
+{"prompt": "Torsa Orihal lives in which city?", "completion": "Dakar", "probe_label": "Dakar", "name": "Torsa Orihal", "attribute": "city"}
+{"prompt": "Wennel Beknel lives in which city?", "completion": "Hobart", "probe_label": "Hobart", "name": "Wennel Beknel", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Ridu Orimi.", "completion": "jeweler", "probe_label": "jeweler", "name": "Ridu Orimi", "attribute": "profession"}
+{"prompt": "Tell me the home city of Halbek Prafay.", "completion": "Wellington", "probe_label": "Wellington", "name": "Halbek Prafay", "attribute": "city"}
+{"prompt": "Duox Fayzu works as a what?", "completion": "jeweler", "probe_label": "jeweler", "name": "Duox Fayzu", "attribute": "profession"}
+{"prompt": "Tell me the home city of Wensa Wenzu.", "completion": "Bergen", "probe_label": "Bergen", "name": "Wensa Wenzu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Lindu Venri.", "completion": "lawyer", "probe_label": "lawyer", "name": "Lindu Venri", "attribute": "profession"}
+{"prompt": "Tamwen Tamtor works as a what?", "completion": "tailor", "probe_label": "tailor", "name": "Tamwen Tamtor", "attribute": "profession"}
+{"prompt": "Kalin Kadu works as a what?", "completion": "historian", "probe_label": "historian", "name": "Kalin Kadu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Prabek Ympra.", "completion": "historian", "probe_label": "historian", "name": "Prabek Ympra", "attribute": "profession"}
+{"prompt": "Kawen Rihal lives in which city?", "completion": "Hobart", "probe_label": "Hobart", "name": "Kawen Rihal", "attribute": "city"}
+{"prompt": "Bekdu Torwen lives in which city?", "completion": "Cusco", "probe_label": "Cusco", "name": "Bekdu Torwen", "attribute": "city"}
+{"prompt": "Tell me the home city of Wentor Duka.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Wentor Duka", "attribute": "city"}
+{"prompt": "Loox Tortor lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Loox Tortor", "attribute": "city"}
+{"prompt": "Duori Lofay lives in which city?", "completion": "Funchal", "probe_label": "Funchal", "name": "Duori Lofay", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Riox Prahal.", "completion": "jeweler", "probe_label": "jeweler", "name": "Riox Prahal", "attribute": "profession"}
+{"prompt": "Ymlo Dutor works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Ymlo Dutor", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Sami Wenri.", "completion": "musician", "probe_label": "musician", "name": "Sami Wenri", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Wenym Oxmi.", "completion": "pilot", "probe_label": "pilot", "name": "Wenym Oxmi", "attribute": "profession"}
+{"prompt": "Oriori Venfay works as a what?", "completion": "historian", "probe_label": "historian", "name": "Oriori Venfay", "attribute": "profession"}
+{"prompt": "Tell me the home city of Kawen Rihal.", "completion": "Hobart", "probe_label": "Hobart", "name": "Kawen Rihal", "attribute": "city"}
+{"prompt": "Sami Wenri lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Sami Wenri", "attribute": "city"}
+{"prompt": "Salo Torhal lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Salo Torhal", "attribute": "city"}
+{"prompt": "Tell me the home city of Lindu Venri.", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Lindu Venri", "attribute": "city"}
+{"prompt": "Tell me the home city of Oxori Oxlin.", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Oxori Oxlin", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Tamym Sator.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Tamym Sator", "attribute": "profession"}
+{"prompt": "Wenri Oxlo lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Wenri Oxlo", "attribute": "city"}
+{"prompt": "Bekpra Prami works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Bekpra Prami", "attribute": "profession"}
+{"prompt": "Ymtam Orizu lives in which city?", "completion": "Bergen", "probe_label": "Bergen", "name": "Ymtam Orizu", "attribute": "city"}
+{"prompt": "Zusa Duven works as a what?", "completion": "optician", "probe_label": "optician", "name": "Zusa Duven", "attribute": "profession"}
+{"prompt": "Tell me the home city of Torfay Wendu.", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Torfay Wendu", "attribute": "city"}
+{"prompt": "Katam Zuym works as a what?", "completion": "architect", "probe_label": "architect", "name": "Katam Zuym", "attribute": "profession"}
+{"prompt": "Fayven Oriox works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Fayven Oriox", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Halori Bekbek.", "completion": "optician", "probe_label": "optician", "name": "Halori Bekbek", "attribute": "profession"}
+{"prompt": "Oxven Miori lives in which city?", "completion": "Dakar", "probe_label": "Dakar", "name": "Oxven Miori", "attribute": "city"}
+{"prompt": "Linpra Tamsa works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Linpra Tamsa", "attribute": "profession"}
+{"prompt": "Tell me the home city of Hallo Lindu.", "completion": "Hobart", "probe_label": "Hobart", "name": "Hallo Lindu", "attribute": "city"}
+{"prompt": "Lowen Duri works as a what?", "completion": "chemist", "probe_label": "chemist", "name": "Lowen Duri", "attribute": "profession"}
+{"prompt": "Tell me the home city of Sanel Beklo.", "completion": "Osaka", "probe_label": "Osaka", "name": "Sanel Beklo", "attribute": "city"}
+{"prompt": "Kanel Katam works as a what?", "completion": "engineer", "probe_label": "engineer", "name": "Kanel Katam", "attribute": "profession"}
+{"prompt": "Loox Beklin lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Loox Beklin", "attribute": "city"}
+{"prompt": "Dunel Tamwen lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Dunel Tamwen", "attribute": "city"}
+{"prompt": "Tell me the home city of Oxbek Torox.", "completion": "Cusco", "probe_label": "Cusco", "name": "Oxbek Torox", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Dunel Halven.", "completion": "musician", "probe_label": "musician", "name": "Dunel Halven", "attribute": "profession"}
+{"prompt": "Wentor Duka works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Wentor Duka", "attribute": "profession"}
+{"prompt": "Rimi Wenri lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Rimi Wenri", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Bekri Venwen.", "completion": "pilot", "probe_label": "pilot", "name": "Bekri Venwen", "attribute": "profession"}
+{"prompt": "Tell me the home city of Dunel Halven.", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Dunel Halven", "attribute": "city"}
+{"prompt": "Wenri Oxlo works as a what?", "completion": "jeweler", "probe_label": "jeweler", "name": "Wenri Oxlo", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Haltam Dumi.", "completion": "chemist", "probe_label": "chemist", "name": "Haltam Dumi", "attribute": "profession"}
+{"prompt": "Oxlin Nelox lives in which city?", "completion": "Funchal", "probe_label": "Funchal", "name": "Oxlin Nelox", "attribute": "city"}
+{"prompt": "Tell me the home city of Torym Torhal.", "completion": "Tromso", "probe_label": "Tromso", "name": "Torym Torhal", "attribute": "city"}
+{"prompt": "Tell me the home city of Praven Tamfay.", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Praven Tamfay", "attribute": "city"}
+{"prompt": "Tell me the home city of Ymlo Dutor.", "completion": "Tromso", "probe_label": "Tromso", "name": "Ymlo Dutor", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Ymdu Linox.", "completion": "florist", "probe_label": "florist", "name": "Ymdu Linox", "attribute": "profession"}
+{"prompt": "Tell me the home city of Fayfay Halpra.", "completion": "Funchal", "probe_label": "Funchal", "name": "Fayfay Halpra", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Faylin Oripra.", "completion": "tailor", "probe_label": "tailor", "name": "Faylin Oripra", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Duzu Wenfay.", "completion": "engineer", "probe_label": "engineer", "name": "Duzu Wenfay", "attribute": "profession"}
+{"prompt": "Halbek Prafay works as a what?", "completion": "historian", "probe_label": "historian", "name": "Halbek Prafay", "attribute": "profession"}
+{"prompt": "Oxbek Torox works as a what?", "completion": "geologist", "probe_label": "geologist", "name": "Oxbek Torox", "attribute": "profession"}
+{"prompt": "Tell me the home city of Dulo Miym.", "completion": "Hobart", "probe_label": "Hobart", "name": "Dulo Miym", "attribute": "city"}
+{"prompt": "Tell me the home city of Haltam Dumi.", "completion": "Hobart", "probe_label": "Hobart", "name": "Haltam Dumi", "attribute": "city"}
+{"prompt": "Lori Kaka works as a what?", "completion": "tailor", "probe_label": "tailor", "name": "Lori Kaka", "attribute": "profession"}
+{"prompt": "Tell me the home city of Torym Oxri.", "completion": "Wellington", "probe_label": "Wellington", "name": "Torym Oxri", "attribute": "city"}
+{"prompt": "Faytor Zuhal works as a what?", "completion": "jeweler", "probe_label": "jeweler", "name": "Faytor Zuhal", "attribute": "profession"}
+{"prompt": "Duori Ymox lives in which city?", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Duori Ymox", "attribute": "city"}
+{"prompt": "Tell me the home city of Ymtam Orizu.", "completion": "Bergen", "probe_label": "Bergen", "name": "Ymtam Orizu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Pratam Bektam.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Pratam Bektam", "attribute": "profession"}
+{"prompt": "Dupra Torlin lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Dupra Torlin", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Halbek Prafay.", "completion": "historian", "probe_label": "historian", "name": "Halbek Prafay", "attribute": "profession"}
+{"prompt": "Vensa Dulo works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Vensa Dulo", "attribute": "profession"}
+{"prompt": "Riox Prahal lives in which city?", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Riox Prahal", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Pranel Fayka.", "completion": "pilot", "probe_label": "pilot", "name": "Pranel Fayka", "attribute": "profession"}
+{"prompt": "Oxlin Nelox works as a what?", "completion": "architect", "probe_label": "architect", "name": "Oxlin Nelox", "attribute": "profession"}
+{"prompt": "Prabek Ympra lives in which city?", "completion": "Dakar", "probe_label": "Dakar", "name": "Prabek Ympra", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Tordu Bekmi.", "completion": "lawyer", "probe_label": "lawyer", "name": "Tordu Bekmi", "attribute": "profession"}
+{"prompt": "Prabek Mizu works as a what?", "completion": "engineer", "probe_label": "engineer", "name": "Prabek Mizu", "attribute": "profession"}
+{"prompt": "Sami Wenri works as a what?", "completion": "musician", "probe_label": "musician", "name": "Sami Wenri", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Oriven Saori.", "completion": "baker", "probe_label": "baker", "name": "Oriven Saori", "attribute": "profession"}
+{"prompt": "Neltam Zutam works as a what?", "completion": "florist", "probe_label": "florist", "name": "Neltam Zutam", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Ymka Neltor.", "completion": "welder", "probe_label": "welder", "name": "Ymka Neltor", "attribute": "profession"}
+{"prompt": "Tell me the home city of Dudu Torpra.", "completion": "Wellington", "probe_label": "Wellington", "name": "Dudu Torpra", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Linpra Tamsa.", "completion": "dentist", "probe_label": "dentist", "name": "Linpra Tamsa", "attribute": "profession"}
+{"prompt": "Ymlo Dutor lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Ymlo Dutor", "attribute": "city"}
+{"prompt": "Neldu Lolin works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Neldu Lolin", "attribute": "profession"}
+{"prompt": "Lolo Misa lives in which city?", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Lolo Misa", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Tamori Dudu.", "completion": "historian", "probe_label": "historian", "name": "Tamori Dudu", "attribute": "profession"}
+{"prompt": "Duri Wenlin works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Duri Wenlin", "attribute": "profession"}
+{"prompt": "Risa Zuri lives in which city?", "completion": "Osaka", "probe_label": "Osaka", "name": "Risa Zuri", "attribute": "city"}
+{"prompt": "Fayfay Halpra works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Fayfay Halpra", "attribute": "profession"}
+{"prompt": "Kapra Midu works as a what?", "completion": "geologist", "probe_label": "geologist", "name": "Kapra Midu", "attribute": "profession"}
+{"prompt": "Hallo Lindu lives in which city?", "completion": "Hobart", "probe_label": "Hobart", "name": "Hallo Lindu", "attribute": "city"}
+{"prompt": "Lomi Tortor works as a what?", "completion": "welder", "probe_label": "welder", "name": "Lomi Tortor", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Dusa Torfay.", "completion": "engineer", "probe_label": "engineer", "name": "Dusa Torfay", "attribute": "profession"}
+{"prompt": "Oxzu Wenox works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Oxzu Wenox", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Wenlo Loka.", "completion": "architect", "probe_label": "architect", "name": "Wenlo Loka", "attribute": "profession"}
+{"prompt": "Bekven Sahal works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Bekven Sahal", "attribute": "profession"}
+{"prompt": "Pralin Tamtor lives in which city?", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Pralin Tamtor", "attribute": "city"}
+{"prompt": "Duven Duox works as a what?", "completion": "geologist", "probe_label": "geologist", "name": "Duven Duox", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Tamlin Kaox.", "completion": "jeweler", "probe_label": "jeweler", "name": "Tamlin Kaox", "attribute": "profession"}
+{"prompt": "Zuym Wenzu lives in which city?", "completion": "Cusco", "probe_label": "Cusco", "name": "Zuym Wenzu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Tortor Oxnel.", "completion": "architect", "probe_label": "architect", "name": "Tortor Oxnel", "attribute": "profession"}
+{"prompt": "Haltam Dumi lives in which city?", "completion": "Hobart", "probe_label": "Hobart", "name": "Haltam Dumi", "attribute": "city"}
+{"prompt": "Kafay Tamori lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Kafay Tamori", "attribute": "city"}
+{"prompt": "Oritam Lolo works as a what?", "completion": "musician", "probe_label": "musician", "name": "Oritam Lolo", "attribute": "profession"}
+{"prompt": "Tell me the home city of Tamym Sator.", "completion": "Bergen", "probe_label": "Bergen", "name": "Tamym Sator", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Kawen Wenym.", "completion": "musician", "probe_label": "musician", "name": "Kawen Wenym", "attribute": "profession"}
+{"prompt": "Tell me the home city of Wenym Oxmi.", "completion": "Bergen", "probe_label": "Bergen", "name": "Wenym Oxmi", "attribute": "city"}
+{"prompt": "Tell me the home city of Tamwen Tamtor.", "completion": "Bergen", "probe_label": "Bergen", "name": "Tamwen Tamtor", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Hallo Dubek.", "completion": "lawyer", "probe_label": "lawyer", "name": "Hallo Dubek", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Torsa Orihal.", "completion": "engineer", "probe_label": "engineer", "name": "Torsa Orihal", "attribute": "profession"}
+{"prompt": "Tell me the home city of Tamdu Torlo.", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Tamdu Torlo", "attribute": "city"}
+{"prompt": "Wenym Dunel lives in which city?", "completion": "Osaka", "probe_label": "Osaka", "name": "Wenym Dunel", "attribute": "city"}
+{"prompt": "Oriym Prapra works as a what?", "completion": "musician", "probe_label": "musician", "name": "Oriym Prapra", "attribute": "profession"}
+{"prompt": "Ymka Neltor works as a what?", "completion": "welder", "probe_label": "welder", "name": "Ymka Neltor", "attribute": "profession"}
+{"prompt": "Tamox Miox lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Tamox Miox", "attribute": "city"}
+{"prompt": "Pralin Tamtor works as a what?", "completion": "historian", "probe_label": "historian", "name": "Pralin Tamtor", "attribute": "profession"}
+{"prompt": "Ymka Lozu works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Ymka Lozu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Vensa Faylo.", "completion": "dentist", "probe_label": "dentist", "name": "Vensa Faylo", "attribute": "profession"}
+{"prompt": "Prabek Ympra works as a what?", "completion": "historian", "probe_label": "historian", "name": "Prabek Ympra", "attribute": "profession"}
+{"prompt": "Kawen Wenym lives in which city?", "completion": "Hobart", "probe_label": "Hobart", "name": "Kawen Wenym", "attribute": "city"}
+{"prompt": "Tell me the home city of Torlin Oxzu.", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Torlin Oxzu", "attribute": "city"}
+{"prompt": "Tell me the home city of Zuri Prabek.", "completion": "Wellington", "probe_label": "Wellington", "name": "Zuri Prabek", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Kanel Katam.", "completion": "engineer", "probe_label": "engineer", "name": "Kanel Katam", "attribute": "profession"}
+{"prompt": "Tell me the home city of Loox Beklin.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Loox Beklin", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Halori Zuri.", "completion": "lawyer", "probe_label": "lawyer", "name": "Halori Zuri", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Oriym Prapra.", "completion": "musician", "probe_label": "musician", "name": "Oriym Prapra", "attribute": "profession"}
+{"prompt": "Pratam Bektam works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Pratam Bektam", "attribute": "profession"}
+{"prompt": "Mihal Lodu lives in which city?", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Mihal Lodu", "attribute": "city"}
+{"prompt": "Midu Dutam works as a what?", "completion": "optician", "probe_label": "optician", "name": "Midu Dutam", "attribute": "profession"}
+{"prompt": "Tamym Sator works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Tamym Sator", "attribute": "profession"}
+{"prompt": "Tell me the home city of Kaven Dumi.", "completion": "Quito", "probe_label": "Quito", "name": "Kaven Dumi", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Milin Oxwen.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Milin Oxwen", "attribute": "profession"}
+{"prompt": "Orifay Venox lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Orifay Venox", "attribute": "city"}
+{"prompt": "Kaori Ymtam works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Kaori Ymtam", "attribute": "profession"}
+{"prompt": "Tell me the home city of Kaori Ymtam.", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Kaori Ymtam", "attribute": "city"}
+{"prompt": "Tell me the home city of Kafay Tamori.", "completion": "Wellington", "probe_label": "Wellington", "name": "Kafay Tamori", "attribute": "city"}
+{"prompt": "Tell me the home city of Zuym Wenzu.", "completion": "Cusco", "probe_label": "Cusco", "name": "Zuym Wenzu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Oxsa Nelori.", "completion": "jeweler", "probe_label": "jeweler", "name": "Oxsa Nelori", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Tamtor Kalo.", "completion": "pilot", "probe_label": "pilot", "name": "Tamtor Kalo", "attribute": "profession"}
+{"prompt": "Tell me the home city of Nelox Dudu.", "completion": "Galway", "probe_label": "Galway", "name": "Nelox Dudu", "attribute": "city"}
+{"prompt": "Tell me the home city of Saka Wentam.", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Saka Wentam", "attribute": "city"}
+{"prompt": "Oxori Oxlin works as a what?", "completion": "historian", "probe_label": "historian", "name": "Oxori Oxlin", "attribute": "profession"}
+{"prompt": "Tell me the home city of Linym Oxsa.", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Linym Oxsa", "attribute": "city"}
+{"prompt": "Oxpra Oxbek lives in which city?", "completion": "Dakar", "probe_label": "Dakar", "name": "Oxpra Oxbek", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Loox Tortor.", "completion": "engineer", "probe_label": "engineer", "name": "Loox Tortor", "attribute": "profession"}
+{"prompt": "Pranel Fayka lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Pranel Fayka", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Oxbek Torox.", "completion": "geologist", "probe_label": "geologist", "name": "Oxbek Torox", "attribute": "profession"}
+{"prompt": "Tell me the home city of Ymka Neltor.", "completion": "Valletta", "probe_label": "Valletta", "name": "Ymka Neltor", "attribute": "city"}
+{"prompt": "Oxsa Nelori lives in which city?", "completion": "Osaka", "probe_label": "Osaka", "name": "Oxsa Nelori", "attribute": "city"}
+{"prompt": "Tell me the home city of Zusa Duven.", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Zusa Duven", "attribute": "city"}
+{"prompt": "Risa Zuri works as a what?", "completion": "baker", "probe_label": "baker", "name": "Risa Zuri", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Wenym Dunel.", "completion": "baker", "probe_label": "baker", "name": "Wenym Dunel", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Loka Tamdu.", "completion": "sculptor", "probe_label": "sculptor", "name": "Loka Tamdu", "attribute": "profession"}
+{"prompt": "Tell me the home city of Vensa Faylo.", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Vensa Faylo", "attribute": "city"}
+{"prompt": "Torbek Wenbek lives in which city?", "completion": "Hobart", "probe_label": "Hobart", "name": "Torbek Wenbek", "attribute": "city"}
+{"prompt": "Tamdu Torlo lives in which city?", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Tamdu Torlo", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Oriori Venfay.", "completion": "historian", "probe_label": "historian", "name": "Oriori Venfay", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Kaori Ymtam.", "completion": "lawyer", "probe_label": "lawyer", "name": "Kaori Ymtam", "attribute": "profession"}
+{"prompt": "Tell me the home city of Halka Ribek.", "completion": "Tromso", "probe_label": "Tromso", "name": "Halka Ribek", "attribute": "city"}
+{"prompt": "Tell me the home city of Zuka Oxnel.", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Zuka Oxnel", "attribute": "city"}
+{"prompt": "Ympra Nelzu lives in which city?", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Ympra Nelzu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Fayfay Halpra.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Fayfay Halpra", "attribute": "profession"}
+{"prompt": "Tell me the home city of Oxpra Oxbek.", "completion": "Dakar", "probe_label": "Dakar", "name": "Oxpra Oxbek", "attribute": "city"}
+{"prompt": "Oriym Prapra lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Oriym Prapra", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Oxbek Oxori.", "completion": "architect", "probe_label": "architect", "name": "Oxbek Oxori", "attribute": "profession"}
+{"prompt": "Lotam Ymox works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Lotam Ymox", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Duox Venhal.", "completion": "pilot", "probe_label": "pilot", "name": "Duox Venhal", "attribute": "profession"}
+{"prompt": "Saka Wentam works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Saka Wentam", "attribute": "profession"}
+{"prompt": "Bekven Sahal lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Bekven Sahal", "attribute": "city"}
+{"prompt": "Halri Pranel lives in which city?", "completion": "Galway", "probe_label": "Galway", "name": "Halri Pranel", "attribute": "city"}
+{"prompt": "Salo Torhal works as a what?", "completion": "sculptor", "probe_label": "sculptor", "name": "Salo Torhal", "attribute": "profession"}
+{"prompt": "Zuka Oxnel works as a what?", "completion": "sculptor", "probe_label": "sculptor", "name": "Zuka Oxnel", "attribute": "profession"}
+{"prompt": "Vensa Faylo works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Vensa Faylo", "attribute": "profession"}
+{"prompt": "Zuwen Faypra lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Zuwen Faypra", "attribute": "city"}
+{"prompt": "Nelox Dudu lives in which city?", "completion": "Galway", "probe_label": "Galway", "name": "Nelox Dudu", "attribute": "city"}
+{"prompt": "Tell me the home city of Ymlo Nelpra.", "completion": "Valletta", "probe_label": "Valletta", "name": "Ymlo Nelpra", "attribute": "city"}
+{"prompt": "Sanel Halzu lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Sanel Halzu", "attribute": "city"}
+{"prompt": "Tell me the home city of Fayka Zuwen.", "completion": "Valletta", "probe_label": "Valletta", "name": "Fayka Zuwen", "attribute": "city"}
+{"prompt": "Ymdu Linox works as a what?", "completion": "florist", "probe_label": "florist", "name": "Ymdu Linox", "attribute": "profession"}
+{"prompt": "Tell me the home city of Venzu Bekmi.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Venzu Bekmi", "attribute": "city"}
+{"prompt": "Milin Bekfay lives in which city?", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Milin Bekfay", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Oxym Linori.", "completion": "jeweler", "probe_label": "jeweler", "name": "Oxym Linori", "attribute": "profession"}
+{"prompt": "Tell me the home city of Wensa Pralo.", "completion": "Galway", "probe_label": "Galway", "name": "Wensa Pralo", "attribute": "city"}
+{"prompt": "Tell me the home city of Oxbek Oxori.", "completion": "Quito", "probe_label": "Quito", "name": "Oxbek Oxori", "attribute": "city"}
+{"prompt": "Duzu Wenfay lives in which city?", "completion": "Hobart", "probe_label": "Hobart", "name": "Duzu Wenfay", "attribute": "city"}
+{"prompt": "Linym Oxzu lives in which city?", "completion": "Valletta", "probe_label": "Valletta", "name": "Linym Oxzu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Ymori Praven.", "completion": "architect", "probe_label": "architect", "name": "Ymori Praven", "attribute": "profession"}
+{"prompt": "Prabek Mizu lives in which city?", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Prabek Mizu", "attribute": "city"}
+{"prompt": "Neldu Lolin lives in which city?", "completion": "Bergen", "probe_label": "Bergen", "name": "Neldu Lolin", "attribute": "city"}
+{"prompt": "Tell me the home city of Riym Kasa.", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Riym Kasa", "attribute": "city"}
+{"prompt": "Linlin Bekfay works as a what?", "completion": "welder", "probe_label": "welder", "name": "Linlin Bekfay", "attribute": "profession"}
+{"prompt": "Tell me the home city of Bektam Lohal.", "completion": "Tromso", "probe_label": "Tromso", "name": "Bektam Lohal", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Vensa Dulo.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Vensa Dulo", "attribute": "profession"}
+{"prompt": "Tamori Dudu works as a what?", "completion": "historian", "probe_label": "historian", "name": "Tamori Dudu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Ymtor Vennel.", "completion": "optician", "probe_label": "optician", "name": "Ymtor Vennel", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Riox Oriox.", "completion": "engineer", "probe_label": "engineer", "name": "Riox Oriox", "attribute": "profession"}
+{"prompt": "Venym Haltam lives in which city?", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Venym Haltam", "attribute": "city"}
+{"prompt": "Venfay Venzu lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Venfay Venzu", "attribute": "city"}
+{"prompt": "Sanel Halzu works as a what?", "completion": "florist", "probe_label": "florist", "name": "Sanel Halzu", "attribute": "profession"}
+{"prompt": "Tell me the home city of Oxzu Wenox.", "completion": "Cusco", "probe_label": "Cusco", "name": "Oxzu Wenox", "attribute": "city"}
+{"prompt": "Tell me the home city of Oxven Miori.", "completion": "Dakar", "probe_label": "Dakar", "name": "Oxven Miori", "attribute": "city"}
+{"prompt": "Linym Oriwen works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Linym Oriwen", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Torym Oxri.", "completion": "optician", "probe_label": "optician", "name": "Torym Oxri", "attribute": "profession"}
+{"prompt": "Fayka Riwen lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Fayka Riwen", "attribute": "city"}
+{"prompt": "Venhal Kawen works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Venhal Kawen", "attribute": "profession"}
+{"prompt": "Oxym Linori lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Oxym Linori", "attribute": "city"}
+{"prompt": "Vendu Saym works as a what?", "completion": "welder", "probe_label": "welder", "name": "Vendu Saym", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Ympra Nelzu.", "completion": "sculptor", "probe_label": "sculptor", "name": "Ympra Nelzu", "attribute": "profession"}
+{"prompt": "Oxbek Oxori lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Oxbek Oxori", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Oxven Torox.", "completion": "optician", "probe_label": "optician", "name": "Oxven Torox", "attribute": "profession"}
+{"prompt": "Kami Dunel works as a what?", "completion": "engineer", "probe_label": "engineer", "name": "Kami Dunel", "attribute": "profession"}
+{"prompt": "Tell me the home city of Dufay Haldu.", "completion": "Valletta", "probe_label": "Valletta", "name": "Dufay Haldu", "attribute": "city"}
+{"prompt": "Pratam Bektam lives in which city?", "completion": "Valletta", "probe_label": "Valletta", "name": "Pratam Bektam", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Rihal Haltor.", "completion": "nurse", "probe_label": "nurse", "name": "Rihal Haltor", "attribute": "profession"}
+{"prompt": "Bektam Lohal works as a what?", "completion": "baker", "probe_label": "baker", "name": "Bektam Lohal", "attribute": "profession"}
+{"prompt": "Dulo Miym lives in which city?", "completion": "Hobart", "probe_label": "Hobart", "name": "Dulo Miym", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Tamwen Tamtor.", "completion": "tailor", "probe_label": "tailor", "name": "Tamwen Tamtor", "attribute": "profession"}
+{"prompt": "Dulo Miym works as a what?", "completion": "chemist", "probe_label": "chemist", "name": "Dulo Miym", "attribute": "profession"}
+{"prompt": "Tell me the home city of Tamori Praven.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Tamori Praven", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Nelox Dudu.", "completion": "historian", "probe_label": "historian", "name": "Nelox Dudu", "attribute": "profession"}
+{"prompt": "Riym Kasa works as a what?", "completion": "baker", "probe_label": "baker", "name": "Riym Kasa", "attribute": "profession"}
+{"prompt": "Riox Prahal works as a what?", "completion": "jeweler", "probe_label": "jeweler", "name": "Riox Prahal", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Oxlin Halka.", "completion": "architect", "probe_label": "architect", "name": "Oxlin Halka", "attribute": "profession"}
+{"prompt": "Tell me the home city of Neldu Lolin.", "completion": "Bergen", "probe_label": "Bergen", "name": "Neldu Lolin", "attribute": "city"}
+{"prompt": "Oxzu Prabek lives in which city?", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Oxzu Prabek", "attribute": "city"}
+{"prompt": "Tell me the home city of Tamori Dudu.", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Tamori Dudu", "attribute": "city"}
+{"prompt": "Orihal Praven works as a what?", "completion": "optician", "probe_label": "optician", "name": "Orihal Praven", "attribute": "profession"}
+{"prompt": "Zusa Duven lives in which city?", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Zusa Duven", "attribute": "city"}
+{"prompt": "Praka Prari lives in which city?", "completion": "Funchal", "probe_label": "Funchal", "name": "Praka Prari", "attribute": "city"}
+{"prompt": "Oxbek Oxori works as a what?", "completion": "architect", "probe_label": "architect", "name": "Oxbek Oxori", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Oxpra Oxbek.", "completion": "dentist", "probe_label": "dentist", "name": "Oxpra Oxbek", "attribute": "profession"}
+{"prompt": "Wenlo Loka works as a what?", "completion": "architect", "probe_label": "architect", "name": "Wenlo Loka", "attribute": "profession"}
+{"prompt": "Faytor Sabek works as a what?", "completion": "optician", "probe_label": "optician", "name": "Faytor Sabek", "attribute": "profession"}
+{"prompt": "Tamwen Faywen works as a what?", "completion": "jeweler", "probe_label": "jeweler", "name": "Tamwen Faywen", "attribute": "profession"}
+{"prompt": "Ymlo Nelpra works as a what?", "completion": "architect", "probe_label": "architect", "name": "Ymlo Nelpra", "attribute": "profession"}
+{"prompt": "Tell me the home city of Oriym Prapra.", "completion": "Quito", "probe_label": "Quito", "name": "Oriym Prapra", "attribute": "city"}
+{"prompt": "Faytor Zuhal lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Faytor Zuhal", "attribute": "city"}
+{"prompt": "Ymlo Nelpra lives in which city?", "completion": "Valletta", "probe_label": "Valletta", "name": "Ymlo Nelpra", "attribute": "city"}
+{"prompt": "Tell me the home city of Tortor Duox.", "completion": "Bergen", "probe_label": "Bergen", "name": "Tortor Duox", "attribute": "city"}
+{"prompt": "Mimi Dusa works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Mimi Dusa", "attribute": "profession"}
+{"prompt": "Fayfay Wenbek lives in which city?", "completion": "Hobart", "probe_label": "Hobart", "name": "Fayfay Wenbek", "attribute": "city"}
+{"prompt": "Oriven Saori works as a what?", "completion": "baker", "probe_label": "baker", "name": "Oriven Saori", "attribute": "profession"}
+{"prompt": "Tell me the home city of Oripra Pranel.", "completion": "Dakar", "probe_label": "Dakar", "name": "Oripra Pranel", "attribute": "city"}
+{"prompt": "Hallo Dubek lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Hallo Dubek", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Bekven Sahal.", "completion": "pilot", "probe_label": "pilot", "name": "Bekven Sahal", "attribute": "profession"}
+{"prompt": "Wenwen Neltam lives in which city?", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Wenwen Neltam", "attribute": "city"}
+{"prompt": "Halori Zuri lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Halori Zuri", "attribute": "city"}
+{"prompt": "Tell me the home city of Dupra Torlin.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Dupra Torlin", "attribute": "city"}
+{"prompt": "Torym Oxri works as a what?", "completion": "optician", "probe_label": "optician", "name": "Torym Oxri", "attribute": "profession"}
+{"prompt": "Linym Oxzu works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Linym Oxzu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Ridu Venzu.", "completion": "chemist", "probe_label": "chemist", "name": "Ridu Venzu", "attribute": "profession"}
+{"prompt": "Tell me the home city of Duzu Wenfay.", "completion": "Hobart", "probe_label": "Hobart", "name": "Duzu Wenfay", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Linym Oxzu.", "completion": "lawyer", "probe_label": "lawyer", "name": "Linym Oxzu", "attribute": "profession"}
+{"prompt": "Tell me the home city of Beklo Linka.", "completion": "Valletta", "probe_label": "Valletta", "name": "Beklo Linka", "attribute": "city"}
+{"prompt": "Tell me the home city of Oxlin Halka.", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Oxlin Halka", "attribute": "city"}
+{"prompt": "Faylin Wenhal works as a what?", "completion": "optician", "probe_label": "optician", "name": "Faylin Wenhal", "attribute": "profession"}
+{"prompt": "Oriori Venfay lives in which city?", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Oriori Venfay", "attribute": "city"}
+{"prompt": "Ymori Praven works as a what?", "completion": "architect", "probe_label": "architect", "name": "Ymori Praven", "attribute": "profession"}
+{"prompt": "Tell me the home city of Ymtor Vennel.", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Ymtor Vennel", "attribute": "city"}
+{"prompt": "Fayri Oritor works as a what?", "completion": "musician", "probe_label": "musician", "name": "Fayri Oritor", "attribute": "profession"}
+{"prompt": "Ridu Orimi works as a what?", "completion": "jeweler", "probe_label": "jeweler", "name": "Ridu Orimi", "attribute": "profession"}
+{"prompt": "Tell me the home city of Bekri Venwen.", "completion": "Quito", "probe_label": "Quito", "name": "Bekri Venwen", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Wenri Oxlo.", "completion": "jeweler", "probe_label": "jeweler", "name": "Wenri Oxlo", "attribute": "profession"}
+{"prompt": "Haltam Dumi works as a what?", "completion": "chemist", "probe_label": "chemist", "name": "Haltam Dumi", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Mimi Dusa.", "completion": "pilot", "probe_label": "pilot", "name": "Mimi Dusa", "attribute": "profession"}
+{"prompt": "Tell me the home city of Rimi Wenri.", "completion": "Tromso", "probe_label": "Tromso", "name": "Rimi Wenri", "attribute": "city"}
+{"prompt": "Tell me the home city of Midu Dutam.", "completion": "Valletta", "probe_label": "Valletta", "name": "Midu Dutam", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Tortor Duox.", "completion": "florist", "probe_label": "florist", "name": "Tortor Duox", "attribute": "profession"}
+{"prompt": "Tell me the home city of Vensa Dulo.", "completion": "Osaka", "probe_label": "Osaka", "name": "Vensa Dulo", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Bekdu Torwen.", "completion": "geologist", "probe_label": "geologist", "name": "Bekdu Torwen", "attribute": "profession"}
+{"prompt": "Sari Faylo lives in which city?", "completion": "Cusco", "probe_label": "Cusco", "name": "Sari Faylo", "attribute": "city"}
+{"prompt": "Wennel Beknel works as a what?", "completion": "historian", "probe_label": "historian", "name": "Wennel Beknel", "attribute": "profession"}
+{"prompt": "Ymtam Orizu works as a what?", "completion": "historian", "probe_label": "historian", "name": "Ymtam Orizu", "attribute": "profession"}
+{"prompt": "Tell me the home city of Loox Bekhal.", "completion": "Galway", "probe_label": "Galway", "name": "Loox Bekhal", "attribute": "city"}
+{"prompt": "Tell me the home city of Fayven Oriox.", "completion": "Wellington", "probe_label": "Wellington", "name": "Fayven Oriox", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Loox Bekhal.", "completion": "lawyer", "probe_label": "lawyer", "name": "Loox Bekhal", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Dupra Faydu.", "completion": "tailor", "probe_label": "tailor", "name": "Dupra Faydu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Lintor Neltor.", "completion": "dentist", "probe_label": "dentist", "name": "Lintor Neltor", "attribute": "profession"}
+{"prompt": "Halka Ribek lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Halka Ribek", "attribute": "city"}
+{"prompt": "Loox Tortor works as a what?", "completion": "engineer", "probe_label": "engineer", "name": "Loox Tortor", "attribute": "profession"}
+{"prompt": "Tell me the home city of Wenym Dunel.", "completion": "Osaka", "probe_label": "Osaka", "name": "Wenym Dunel", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Tamven Ympra.", "completion": "dentist", "probe_label": "dentist", "name": "Tamven Ympra", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Mihal Lodu.", "completion": "dentist", "probe_label": "dentist", "name": "Mihal Lodu", "attribute": "profession"}
+{"prompt": "Beklin Kasa lives in which city?", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Beklin Kasa", "attribute": "city"}
+{"prompt": "Tamtor Kalo lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Tamtor Kalo", "attribute": "city"}
+{"prompt": "Loox Bekhal lives in which city?", "completion": "Galway", "probe_label": "Galway", "name": "Loox Bekhal", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Fayka Riwen.", "completion": "baker", "probe_label": "baker", "name": "Fayka Riwen", "attribute": "profession"}
+{"prompt": "Kaori Ymtam lives in which city?", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Kaori Ymtam", "attribute": "city"}
+{"prompt": "Tell me the home city of Wenlo Loka.", "completion": "Cusco", "probe_label": "Cusco", "name": "Wenlo Loka", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Wenven Fayox.", "completion": "musician", "probe_label": "musician", "name": "Wenven Fayox", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Oriori Oxtam.", "completion": "tailor", "probe_label": "tailor", "name": "Oriori Oxtam", "attribute": "profession"}
+{"prompt": "Kaven Dumi lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Kaven Dumi", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Torfay Wendu.", "completion": "nurse", "probe_label": "nurse", "name": "Torfay Wendu", "attribute": "profession"}
+{"prompt": "Oripra Sapra works as a what?", "completion": "optician", "probe_label": "optician", "name": "Oripra Sapra", "attribute": "profession"}
+{"prompt": "Tamym Sator lives in which city?", "completion": "Bergen", "probe_label": "Bergen", "name": "Tamym Sator", "attribute": "city"}
+{"prompt": "Wenwen Neltam works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Wenwen Neltam", "attribute": "profession"}
+{"prompt": "Vendu Saym lives in which city?", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Vendu Saym", "attribute": "city"}
+{"prompt": "Tell me the home city of Oritam Lolo.", "completion": "Hobart", "probe_label": "Hobart", "name": "Oritam Lolo", "attribute": "city"}
+{"prompt": "Tell me the home city of Oriori Venfay.", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Oriori Venfay", "attribute": "city"}
+{"prompt": "Losa Torox works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Losa Torox", "attribute": "profession"}
+{"prompt": "Tell me the home city of Tamhal Faysa.", "completion": "Valletta", "probe_label": "Valletta", "name": "Tamhal Faysa", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Faytor Sabek.", "completion": "optician", "probe_label": "optician", "name": "Faytor Sabek", "attribute": "profession"}
+{"prompt": "Tordu Bekmi works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Tordu Bekmi", "attribute": "profession"}
+{"prompt": "Wenym Oxmi works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Wenym Oxmi", "attribute": "profession"}
+{"prompt": "Wentor Duka lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Wentor Duka", "attribute": "city"}
+{"prompt": "Fayven Oriox lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Fayven Oriox", "attribute": "city"}
+{"prompt": "Tell me the home city of Tamwen Faywen.", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Tamwen Faywen", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Zulo Tammi.", "completion": "engineer", "probe_label": "engineer", "name": "Zulo Tammi", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Tamox Miox.", "completion": "welder", "probe_label": "welder", "name": "Tamox Miox", "attribute": "profession"}
+{"prompt": "Lotam Duym lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Lotam Duym", "attribute": "city"}
+{"prompt": "Dupra Torlin works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Dupra Torlin", "attribute": "profession"}
+{"prompt": "Vensa Faylo lives in which city?", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Vensa Faylo", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Wenlin Wenlin.", "completion": "architect", "probe_label": "architect", "name": "Wenlin Wenlin", "attribute": "profession"}
+{"prompt": "Loka Tamdu lives in which city?", "completion": "Bergen", "probe_label": "Bergen", "name": "Loka Tamdu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Hallo Lindu.", "completion": "tailor", "probe_label": "tailor", "name": "Hallo Lindu", "attribute": "profession"}
+{"prompt": "Tortor Oxnel lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Tortor Oxnel", "attribute": "city"}
+{"prompt": "Tell me the home city of Loox Tortor.", "completion": "Tromso", "probe_label": "Tromso", "name": "Loox Tortor", "attribute": "city"}
+{"prompt": "Tell me the home city of Tamox Miox.", "completion": "Wellington", "probe_label": "Wellington", "name": "Tamox Miox", "attribute": "city"}
+{"prompt": "Nelori Venwen lives in which city?", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Nelori Venwen", "attribute": "city"}
+{"prompt": "Oritor Dupra works as a what?", "completion": "architect", "probe_label": "architect", "name": "Oritor Dupra", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Faytor Zuhal.", "completion": "jeweler", "probe_label": "jeweler", "name": "Faytor Zuhal", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Orifay Venox.", "completion": "lawyer", "probe_label": "lawyer", "name": "Orifay Venox", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Lotam Duym.", "completion": "lawyer", "probe_label": "lawyer", "name": "Lotam Duym", "attribute": "profession"}
+{"prompt": "Tamlin Kaox works as a what?", "completion": "jeweler", "probe_label": "jeweler", "name": "Tamlin Kaox", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Dunel Tamwen.", "completion": "architect", "probe_label": "architect", "name": "Dunel Tamwen", "attribute": "profession"}
+{"prompt": "Tell me the home city of Lindu Oripra.", "completion": "Wellington", "probe_label": "Wellington", "name": "Lindu Oripra", "attribute": "city"}
+{"prompt": "Tell me the home city of Lowen Duri.", "completion": "Osaka", "probe_label": "Osaka", "name": "Lowen Duri", "attribute": "city"}
+{"prompt": "Oriven Saori lives in which city?", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Oriven Saori", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Vendu Saym.", "completion": "welder", "probe_label": "welder", "name": "Vendu Saym", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Praven Tamfay.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Praven Tamfay", "attribute": "profession"}
+{"prompt": "Wenym Oxmi lives in which city?", "completion": "Bergen", "probe_label": "Bergen", "name": "Wenym Oxmi", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Zusa Duven.", "completion": "optician", "probe_label": "optician", "name": "Zusa Duven", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Ymka Lozu.", "completion": "dentist", "probe_label": "dentist", "name": "Ymka Lozu", "attribute": "profession"}
+{"prompt": "Oripra Pranel works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Oripra Pranel", "attribute": "profession"}
+{"prompt": "Ympra Nelzu works as a what?", "completion": "sculptor", "probe_label": "sculptor", "name": "Ympra Nelzu", "attribute": "profession"}
+{"prompt": "Oxpra Oxbek works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Oxpra Oxbek", "attribute": "profession"}
+{"prompt": "Ymori Praven lives in which city?", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Ymori Praven", "attribute": "city"}
+{"prompt": "Tell me the home city of Halri Pranel.", "completion": "Galway", "probe_label": "Galway", "name": "Halri Pranel", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Oripra Sapra.", "completion": "optician", "probe_label": "optician", "name": "Oripra Sapra", "attribute": "profession"}
+{"prompt": "Tell me the home city of Lotam Ymox.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Lotam Ymox", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Lomi Tortor.", "completion": "welder", "probe_label": "welder", "name": "Lomi Tortor", "attribute": "profession"}
+{"prompt": "Venym Haltam works as a what?", "completion": "chemist", "probe_label": "chemist", "name": "Venym Haltam", "attribute": "profession"}
+{"prompt": "Torbek Wenbek works as a what?", "completion": "chemist", "probe_label": "chemist", "name": "Torbek Wenbek", "attribute": "profession"}
+{"prompt": "Lotam Venlin works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Lotam Venlin", "attribute": "profession"}
+{"prompt": "Tell me the home city of Neltam Zutam.", "completion": "Dakar", "probe_label": "Dakar", "name": "Neltam Zutam", "attribute": "city"}
+{"prompt": "Kapra Midu lives in which city?", "completion": "Hobart", "probe_label": "Hobart", "name": "Kapra Midu", "attribute": "city"}
+{"prompt": "Faylin Wenhal lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Faylin Wenhal", "attribute": "city"}
+{"prompt": "Loka Tamdu works as a what?", "completion": "sculptor", "probe_label": "sculptor", "name": "Loka Tamdu", "attribute": "profession"}
+{"prompt": "Torfay Wendu lives in which city?", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Torfay Wendu", "attribute": "city"}
+{"prompt": "Ridu Orimi lives in which city?", "completion": "Funchal", "probe_label": "Funchal", "name": "Ridu Orimi", "attribute": "city"}
+{"prompt": "Tell me the home city of Beklin Kasa.", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Beklin Kasa", "attribute": "city"}
+{"prompt": "Tortor Duox works as a what?", "completion": "florist", "probe_label": "florist", "name": "Tortor Duox", "attribute": "profession"}
+{"prompt": "Duven Duox lives in which city?", "completion": "Galway", "probe_label": "Galway", "name": "Duven Duox", "attribute": "city"}
+{"prompt": "Tell me the home city of Linym Oxzu.", "completion": "Valletta", "probe_label": "Valletta", "name": "Linym Oxzu", "attribute": "city"}
+{"prompt": "Tell me the home city of Tamlin Kaox.", "completion": "Osaka", "probe_label": "Osaka", "name": "Tamlin Kaox", "attribute": "city"}
+{"prompt": "Zuka Oxnel lives in which city?", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Zuka Oxnel", "attribute": "city"}
+{"prompt": "Kami Dunel lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Kami Dunel", "attribute": "city"}
+{"prompt": "Orifay Venox works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Orifay Venox", "attribute": "profession"}
+{"prompt": "Dunel Halven works as a what?", "completion": "musician", "probe_label": "musician", "name": "Dunel Halven", "attribute": "profession"}
+{"prompt": "Wenlin Wenlin lives in which city?", "completion": "Funchal", "probe_label": "Funchal", "name": "Wenlin Wenlin", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Salo Torhal.", "completion": "sculptor", "probe_label": "sculptor", "name": "Salo Torhal", "attribute": "profession"}
+{"prompt": "Halbek Lindu lives in which city?", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Halbek Lindu", "attribute": "city"}
+{"prompt": "Lotam Ymox lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Lotam Ymox", "attribute": "city"}
+{"prompt": "Ymka Lozu lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Ymka Lozu", "attribute": "city"}
+{"prompt": "Rihal Haltor lives in which city?", "completion": "Galway", "probe_label": "Galway", "name": "Rihal Haltor", "attribute": "city"}
+{"prompt": "Dunel Halven lives in which city?", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Dunel Halven", "attribute": "city"}
+{"prompt": "Halori Zuri works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Halori Zuri", "attribute": "profession"}
+{"prompt": "Haltam Safay works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Haltam Safay", "attribute": "profession"}
+{"prompt": "Torzu Ymri lives in which city?", "completion": "Bergen", "probe_label": "Bergen", "name": "Torzu Ymri", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Tormi Duzu.", "completion": "geologist", "probe_label": "geologist", "name": "Tormi Duzu", "attribute": "profession"}
+{"prompt": "Tell me the home city of Duori Lofay.", "completion": "Funchal", "probe_label": "Funchal", "name": "Duori Lofay", "attribute": "city"}
+{"prompt": "Milin Bekfay works as a what?", "completion": "optician", "probe_label": "optician", "name": "Milin Bekfay", "attribute": "profession"}
+{"prompt": "Torfay Wendu works as a what?", "completion": "nurse", "probe_label": "nurse", "name": "Torfay Wendu", "attribute": "profession"}
+{"prompt": "Fayfay Halpra lives in which city?", "completion": "Funchal", "probe_label": "Funchal", "name": "Fayfay Halpra", "attribute": "city"}
+{"prompt": "Saka Wentam lives in which city?", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Saka Wentam", "attribute": "city"}
+{"prompt": "Torzu Ymri works as a what?", "completion": "dentist", "probe_label": "dentist", "name": "Torzu Ymri", "attribute": "profession"}
+{"prompt": "Bekri Venwen lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Bekri Venwen", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Kafay Tamori.", "completion": "pilot", "probe_label": "pilot", "name": "Kafay Tamori", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Kawen Rihal.", "completion": "geologist", "probe_label": "geologist", "name": "Kawen Rihal", "attribute": "profession"}
+{"prompt": "Oxori Oxlin lives in which city?", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Oxori Oxlin", "attribute": "city"}
+{"prompt": "Ymwen Oxri lives in which city?", "completion": "Galway", "probe_label": "Galway", "name": "Ymwen Oxri", "attribute": "city"}
+{"prompt": "Wenym Dunel works as a what?", "completion": "baker", "probe_label": "baker", "name": "Wenym Dunel", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Bekpra Prami.", "completion": "dentist", "probe_label": "dentist", "name": "Bekpra Prami", "attribute": "profession"}
+{"prompt": "Dusa Torfay works as a what?", "completion": "engineer", "probe_label": "engineer", "name": "Dusa Torfay", "attribute": "profession"}
+{"prompt": "Kanel Katam lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Kanel Katam", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Pralin Tamtor.", "completion": "historian", "probe_label": "historian", "name": "Pralin Tamtor", "attribute": "profession"}
+{"prompt": "Tell me the home city of Bekven Sahal.", "completion": "Wellington", "probe_label": "Wellington", "name": "Bekven Sahal", "attribute": "city"}
+{"prompt": "Halbek Lindu works as a what?", "completion": "welder", "probe_label": "welder", "name": "Halbek Lindu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Kaka Wenka.", "completion": "optician", "probe_label": "optician", "name": "Kaka Wenka", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Oripra Pranel.", "completion": "pilot", "probe_label": "pilot", "name": "Oripra Pranel", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Kafay Ymori.", "completion": "sculptor", "probe_label": "sculptor", "name": "Kafay Ymori", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Torzu Ymri.", "completion": "dentist", "probe_label": "dentist", "name": "Torzu Ymri", "attribute": "profession"}
+{"prompt": "Tamori Praven works as a what?", "completion": "florist", "probe_label": "florist", "name": "Tamori Praven", "attribute": "profession"}
+{"prompt": "Tell me the home city of Ympra Nelzu.", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Ympra Nelzu", "attribute": "city"}
+{"prompt": "Tell me the home city of Faywen Orizu.", "completion": "Dakar", "probe_label": "Dakar", "name": "Faywen Orizu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Wentor Duka.", "completion": "pilot", "probe_label": "pilot", "name": "Wentor Duka", "attribute": "profession"}
+{"prompt": "Tell me the home city of Pranel Fayka.", "completion": "Tromso", "probe_label": "Tromso", "name": "Pranel Fayka", "attribute": "city"}
+{"prompt": "Tell me the home city of Sawen Kadu.", "completion": "Wellington", "probe_label": "Wellington", "name": "Sawen Kadu", "attribute": "city"}
+{"prompt": "Tamhal Faysa lives in which city?", "completion": "Valletta", "probe_label": "Valletta", "name": "Tamhal Faysa", "attribute": "city"}
+{"prompt": "Ymlo Venym works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Ymlo Venym", "attribute": "profession"}
+{"prompt": "Mihal Wenven lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Mihal Wenven", "attribute": "city"}
+{"prompt": "Venzu Bekmi works as a what?", "completion": "chemist", "probe_label": "chemist", "name": "Venzu Bekmi", "attribute": "profession"}
+{"prompt": "Mimi Dusa lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Mimi Dusa", "attribute": "city"}
+{"prompt": "Midu Dutam lives in which city?", "completion": "Valletta", "probe_label": "Valletta", "name": "Midu Dutam", "attribute": "city"}
+{"prompt": "Ymori Neldu lives in which city?", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Ymori Neldu", "attribute": "city"}
+{"prompt": "Wenven Fayox lives in which city?", "completion": "Cusco", "probe_label": "Cusco", "name": "Wenven Fayox", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Duori Ymox.", "completion": "jeweler", "probe_label": "jeweler", "name": "Duori Ymox", "attribute": "profession"}
+{"prompt": "Mika Katam lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Mika Katam", "attribute": "city"}
+{"prompt": "Wenven Fayox works as a what?", "completion": "musician", "probe_label": "musician", "name": "Wenven Fayox", "attribute": "profession"}
+{"prompt": "Tortor Oxnel works as a what?", "completion": "architect", "probe_label": "architect", "name": "Tortor Oxnel", "attribute": "profession"}
+{"prompt": "Tamori Dudu lives in which city?", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Tamori Dudu", "attribute": "city"}
+{"prompt": "Loox Beklin works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Loox Beklin", "attribute": "profession"}
+{"prompt": "Tell me the home city of Wenven Fayox.", "completion": "Cusco", "probe_label": "Cusco", "name": "Wenven Fayox", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Ymlo Venym.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Ymlo Venym", "attribute": "profession"}
+{"prompt": "Tell me the home city of Orifay Venox.", "completion": "Tromso", "probe_label": "Tromso", "name": "Orifay Venox", "attribute": "city"}
+{"prompt": "Kafay Ymori works as a what?", "completion": "sculptor", "probe_label": "sculptor", "name": "Kafay Ymori", "attribute": "profession"}
+{"prompt": "Oripra Sapra lives in which city?", "completion": "Galway", "probe_label": "Galway", "name": "Oripra Sapra", "attribute": "city"}
+{"prompt": "Lolo Misa works as a what?", "completion": "engineer", "probe_label": "engineer", "name": "Lolo Misa", "attribute": "profession"}
+{"prompt": "Tell me the home city of Halori Bekbek.", "completion": "Cusco", "probe_label": "Cusco", "name": "Halori Bekbek", "attribute": "city"}
+{"prompt": "Tell me the home city of Torfay Zuwen.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Torfay Zuwen", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Fayka Zuwen.", "completion": "dentist", "probe_label": "dentist", "name": "Fayka Zuwen", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Faywen Orizu.", "completion": "lawyer", "probe_label": "lawyer", "name": "Faywen Orizu", "attribute": "profession"}
+{"prompt": "Oxzu Wenox lives in which city?", "completion": "Cusco", "probe_label": "Cusco", "name": "Oxzu Wenox", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Halri Pranel.", "completion": "optician", "probe_label": "optician", "name": "Halri Pranel", "attribute": "profession"}
+{"prompt": "Tell me the home city of Kami Dunel.", "completion": "Quito", "probe_label": "Quito", "name": "Kami Dunel", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Orihal Praven.", "completion": "optician", "probe_label": "optician", "name": "Orihal Praven", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Ymlo Nelpra.", "completion": "architect", "probe_label": "architect", "name": "Ymlo Nelpra", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Rimi Wenri.", "completion": "sculptor", "probe_label": "sculptor", "name": "Rimi Wenri", "attribute": "profession"}
+{"prompt": "Tell me the home city of Duox Venhal.", "completion": "Osaka", "probe_label": "Osaka", "name": "Duox Venhal", "attribute": "city"}
+{"prompt": "Tell me the home city of Ridu Orimi.", "completion": "Funchal", "probe_label": "Funchal", "name": "Ridu Orimi", "attribute": "city"}
+{"prompt": "Tell me the home city of Wenwen Neltam.", "completion": "Esbjerg", "probe_label": "Esbjerg", "name": "Wenwen Neltam", "attribute": "city"}
+{"prompt": "Bektam Lohal lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Bektam Lohal", "attribute": "city"}
+{"prompt": "Tell me the home city of Oxym Linori.", "completion": "Quito", "probe_label": "Quito", "name": "Oxym Linori", "attribute": "city"}
+{"prompt": "Oripra Pranel lives in which city?", "completion": "Dakar", "probe_label": "Dakar", "name": "Oripra Pranel", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Kalin Kadu.", "completion": "historian", "probe_label": "historian", "name": "Kalin Kadu", "attribute": "profession"}
+{"prompt": "Sanel Beklo works as a what?", "completion": "jeweler", "probe_label": "jeweler", "name": "Sanel Beklo", "attribute": "profession"}
+{"prompt": "Beklo Linka lives in which city?", "completion": "Valletta", "probe_label": "Valletta", "name": "Beklo Linka", "attribute": "city"}
+{"prompt": "Mika Katam works as a what?", "completion": "engineer", "probe_label": "engineer", "name": "Mika Katam", "attribute": "profession"}
+{"prompt": "Tell me the home city of Mihal Lodu.", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Mihal Lodu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Lowen Duri.", "completion": "chemist", "probe_label": "chemist", "name": "Lowen Duri", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Venzu Bekmi.", "completion": "chemist", "probe_label": "chemist", "name": "Venzu Bekmi", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Saka Wentam.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Saka Wentam", "attribute": "profession"}
+{"prompt": "Bekpra Oritam lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Bekpra Oritam", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Duven Duox.", "completion": "geologist", "probe_label": "geologist", "name": "Duven Duox", "attribute": "profession"}
+{"prompt": "Lindu Venri works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Lindu Venri", "attribute": "profession"}
+{"prompt": "Kafay Tamori works as a what?", "completion": "pilot", "probe_label": "pilot", "name": "Kafay Tamori", "attribute": "profession"}
+{"prompt": "Tell me the home city of Dunel Tamwen.", "completion": "Wellington", "probe_label": "Wellington", "name": "Dunel Tamwen", "attribute": "city"}
+{"prompt": "Venym Torbek lives in which city?", "completion": "Osaka", "probe_label": "Osaka", "name": "Venym Torbek", "attribute": "city"}
+{"prompt": "Faylin Oripra lives in which city?", "completion": "Quito", "probe_label": "Quito", "name": "Faylin Oripra", "attribute": "city"}
+{"prompt": "Wenbek Prazu lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Wenbek Prazu", "attribute": "city"}
+{"prompt": "Tordu Bekmi lives in which city?", "completion": "Galway", "probe_label": "Galway", "name": "Tordu Bekmi", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Bektam Lohal.", "completion": "baker", "probe_label": "baker", "name": "Bektam Lohal", "attribute": "profession"}
+{"prompt": "Venzu Bekmi lives in which city?", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Venzu Bekmi", "attribute": "city"}
+{"prompt": "Tell me the home city of Lintor Neltor.", "completion": "Galway", "probe_label": "Galway", "name": "Lintor Neltor", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Lotam Venlin.", "completion": "lawyer", "probe_label": "lawyer", "name": "Lotam Venlin", "attribute": "profession"}
+{"prompt": "Tell me the home city of Kanel Katam.", "completion": "Nairobi", "probe_label": "Nairobi", "name": "Kanel Katam", "attribute": "city"}
+{"prompt": "Oxsa Nelori works as a what?", "completion": "jeweler", "probe_label": "jeweler", "name": "Oxsa Nelori", "attribute": "profession"}
+{"prompt": "Fayfay Wenbek works as a what?", "completion": "florist", "probe_label": "florist", "name": "Fayfay Wenbek", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Tamori Praven.", "completion": "florist", "probe_label": "florist", "name": "Tamori Praven", "attribute": "profession"}
+{"prompt": "Loox Bekhal works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Loox Bekhal", "attribute": "profession"}
+{"prompt": "Tell me the home city of Duri Wenlin.", "completion": "Quito", "probe_label": "Quito", "name": "Duri Wenlin", "attribute": "city"}
+{"prompt": "Tell me the home city of Linlo Halori.", "completion": "Funchal", "probe_label": "Funchal", "name": "Linlo Halori", "attribute": "city"}
+{"prompt": "Tell me the home city of Tamhal Zutam.", "completion": "Osaka", "probe_label": "Osaka", "name": "Tamhal Zutam", "attribute": "city"}
+{"prompt": "Dudu Torpra works as a what?", "completion": "baker", "probe_label": "baker", "name": "Dudu Torpra", "attribute": "profession"}
+{"prompt": "Oxven Miori works as a what?", "completion": "musician", "probe_label": "musician", "name": "Oxven Miori", "attribute": "profession"}
+{"prompt": "Halbek Prafay lives in which city?", "completion": "Wellington", "probe_label": "Wellington", "name": "Halbek Prafay", "attribute": "city"}
+{"prompt": "Tell me the home city of Riox Oriox.", "completion": "Wellington", "probe_label": "Wellington", "name": "Riox Oriox", "attribute": "city"}
+{"prompt": "Tell me the home city of Oripra Sapra.", "completion": "Galway", "probe_label": "Galway", "name": "Oripra Sapra", "attribute": "city"}
+{"prompt": "Linfay Miox lives in which city?", "completion": "Tromso", "probe_label": "Tromso", "name": "Linfay Miox", "attribute": "city"}
+{"prompt": "Tell me the home city of Rihal Haltor.", "completion": "Galway", "probe_label": "Galway", "name": "Rihal Haltor", "attribute": "city"}
+{"prompt": "Tell me the home city of Halori Zuri.", "completion": "Tromso", "probe_label": "Tromso", "name": "Halori Zuri", "attribute": "city"}
+{"prompt": "Tell me the home city of Venym Torbek.", "completion": "Osaka", "probe_label": "Osaka", "name": "Venym Torbek", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Lindu Oripra.", "completion": "dentist", "probe_label": "dentist", "name": "Lindu Oripra", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Oxven Miori.", "completion": "musician", "probe_label": "musician", "name": "Oxven Miori", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Wensa Wenzu.", "completion": "chemist", "probe_label": "chemist", "name": "Wensa Wenzu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Milin Bekfay.", "completion": "optician", "probe_label": "optician", "name": "Milin Bekfay", "attribute": "profession"}
+{"prompt": "Kalin Kadu lives in which city?", "completion": "Bergen", "probe_label": "Bergen", "name": "Kalin Kadu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Beklo Linka.", "completion": "florist", "probe_label": "florist", "name": "Beklo Linka", "attribute": "profession"}
+{"prompt": "Tell me the home city of Faytor Sabek.", "completion": "Dakar", "probe_label": "Dakar", "name": "Faytor Sabek", "attribute": "city"}
+{"prompt": "Tamox Miox works as a what?", "completion": "welder", "probe_label": "welder", "name": "Tamox Miox", "attribute": "profession"}
+{"prompt": "Riym Kasa lives in which city?", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Riym Kasa", "attribute": "city"}
+{"prompt": "Tell me the home city of Wennel Beknel.", "completion": "Hobart", "probe_label": "Hobart", "name": "Wennel Beknel", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Losa Torox.", "completion": "pilot", "probe_label": "pilot", "name": "Losa Torox", "attribute": "profession"}
+{"prompt": "Tell me the home city of Milin Bekfay.", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Milin Bekfay", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Wennel Beknel.", "completion": "historian", "probe_label": "historian", "name": "Wennel Beknel", "attribute": "profession"}
+{"prompt": "Tell me the home city of Oritor Dupra.", "completion": "Galway", "probe_label": "Galway", "name": "Oritor Dupra", "attribute": "city"}
+{"prompt": "Praven Tamfay lives in which city?", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Praven Tamfay", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Sari Faylo.", "completion": "chemist", "probe_label": "chemist", "name": "Sari Faylo", "attribute": "profession"}
+{"prompt": "Dufay Haldu lives in which city?", "completion": "Valletta", "probe_label": "Valletta", "name": "Dufay Haldu", "attribute": "city"}
+{"prompt": "Tell me the home city of Kaka Wenka.", "completion": "Wellington", "probe_label": "Wellington", "name": "Kaka Wenka", "attribute": "city"}
+{"prompt": "Praven Tamfay works as a what?", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Praven Tamfay", "attribute": "profession"}
+{"prompt": "Tell me the home city of Lotam Duym.", "completion": "Wellington", "probe_label": "Wellington", "name": "Lotam Duym", "attribute": "city"}
+{"prompt": "Tell me the home city of Oxlin Nelox.", "completion": "Funchal", "probe_label": "Funchal", "name": "Oxlin Nelox", "attribute": "city"}
+{"prompt": "Losa Torox lives in which city?", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Losa Torox", "attribute": "city"}
+{"prompt": "Vensa Dulo lives in which city?", "completion": "Osaka", "probe_label": "Osaka", "name": "Vensa Dulo", "attribute": "city"}
+{"prompt": "Tell me the home city of Fayri Oritor.", "completion": "Cusco", "probe_label": "Cusco", "name": "Fayri Oritor", "attribute": "city"}
+{"prompt": "Torlin Oxzu works as a what?", "completion": "welder", "probe_label": "welder", "name": "Torlin Oxzu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Zuym Wenzu.", "completion": "dentist", "probe_label": "dentist", "name": "Zuym Wenzu", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Wenwen Neltam.", "completion": "veterinarian", "probe_label": "veterinarian", "name": "Wenwen Neltam", "attribute": "profession"}
+{"prompt": "Milin Oxwen lives in which city?", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Milin Oxwen", "attribute": "city"}
+{"prompt": "Dufay Haldu works as a what?", "completion": "sculptor", "probe_label": "sculptor", "name": "Dufay Haldu", "attribute": "profession"}
+{"prompt": "Tell me the home city of Fayka Riwen.", "completion": "Tromso", "probe_label": "Tromso", "name": "Fayka Riwen", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Bekpra Oritam.", "completion": "sculptor", "probe_label": "sculptor", "name": "Bekpra Oritam", "attribute": "profession"}
+{"prompt": "Sari Faylo works as a what?", "completion": "chemist", "probe_label": "chemist", "name": "Sari Faylo", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Ymori Neldu.", "completion": "historian", "probe_label": "historian", "name": "Ymori Neldu", "attribute": "profession"}
+{"prompt": "Lori Kaka lives in which city?", "completion": "Dakar", "probe_label": "Dakar", "name": "Lori Kaka", "attribute": "city"}
+{"prompt": "Oxven Torox works as a what?", "completion": "optician", "probe_label": "optician", "name": "Oxven Torox", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Duri Wenlin.", "completion": "lawyer", "probe_label": "lawyer", "name": "Duri Wenlin", "attribute": "profession"}
+{"prompt": "Tell me the home city of Milin Oxwen.", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Milin Oxwen", "attribute": "city"}
+{"prompt": "Neltam Zutam lives in which city?", "completion": "Dakar", "probe_label": "Dakar", "name": "Neltam Zutam", "attribute": "city"}
+{"prompt": "Tamdu Torlo works as a what?", "completion": "architect", "probe_label": "architect", "name": "Tamdu Torlo", "attribute": "profession"}
+{"prompt": "Tell me the home city of Haltam Safay.", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Haltam Safay", "attribute": "city"}
+{"prompt": "Beklin Kasa works as a what?", "completion": "lawyer", "probe_label": "lawyer", "name": "Beklin Kasa", "attribute": "profession"}
+{"prompt": "Tell me the home city of Prabek Mizu.", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Prabek Mizu", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Sanel Beklo.", "completion": "jeweler", "probe_label": "jeweler", "name": "Sanel Beklo", "attribute": "profession"}
+{"prompt": "Tell me the home city of Sari Faylo.", "completion": "Cusco", "probe_label": "Cusco", "name": "Sari Faylo", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Tamdu Torlo.", "completion": "architect", "probe_label": "architect", "name": "Tamdu Torlo", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Neldu Lolin.", "completion": "pilot", "probe_label": "pilot", "name": "Neldu Lolin", "attribute": "profession"}
+{"prompt": "Beklo Linka works as a what?", "completion": "florist", "probe_label": "florist", "name": "Beklo Linka", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Torbek Wenbek.", "completion": "chemist", "probe_label": "chemist", "name": "Torbek Wenbek", "attribute": "profession"}
+{"prompt": "Tell me the home city of Linpra Tamsa.", "completion": "Ipoh", "probe_label": "Ipoh", "name": "Linpra Tamsa", "attribute": "city"}
+{"prompt": "Tell me the home city of Ridu Venzu.", "completion": "Wellington", "probe_label": "Wellington", "name": "Ridu Venzu", "attribute": "city"}
+{"prompt": "Duori Ymox works as a what?", "completion": "jeweler", "probe_label": "jeweler", "name": "Duori Ymox", "attribute": "profession"}
+{"prompt": "Tell me the home city of Praka Prari.", "completion": "Funchal", "probe_label": "Funchal", "name": "Praka Prari", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Venym Torbek.", "completion": "lawyer", "probe_label": "lawyer", "name": "Venym Torbek", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Duori Lofay.", "completion": "baker", "probe_label": "baker", "name": "Duori Lofay", "attribute": "profession"}
+{"prompt": "Tell me the home city of Oxsa Nelori.", "completion": "Osaka", "probe_label": "Osaka", "name": "Oxsa Nelori", "attribute": "city"}
+{"prompt": "Tell me the home city of Riox Prahal.", "completion": "Zagreb", "probe_label": "Zagreb", "name": "Riox Prahal", "attribute": "city"}
+{"prompt": "Tell me the home city of Ymori Neldu.", "completion": "Lisbon", "probe_label": "Lisbon", "name": "Ymori Neldu", "attribute": "city"}
+{"prompt": "Tell me the home city of Orihal Praven.", "completion": "Funchal", "probe_label": "Funchal", "name": "Orihal Praven", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Oxzu Wenox.", "completion": "pilot", "probe_label": "pilot", "name": "Oxzu Wenox", "attribute": "profession"}
+{"prompt": "Linlo Halori lives in which city?", "completion": "Funchal", "probe_label": "Funchal", "name": "Linlo Halori", "attribute": "city"}
+{"prompt": "Tell me the profession of the person named Zuka Oxnel.", "completion": "sculptor", "probe_label": "sculptor", "name": "Zuka Oxnel", "attribute": "profession"}
+{"prompt": "Tell me the profession of the person named Linlo Halori.", "completion": "historian", "probe_label": "historian", "name": "Linlo Halori", "attribute": "profession"}

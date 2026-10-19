@@ -1,0 +1,299 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+checkpoints:   0%|          | 0/13 [00:00<?, ?it/s][transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   1%|1         | 5/338 [00:00<00:08, 39.66it/s][A
+Loading weights:   3%|2         | 9/338 [00:00<00:14, 23.26it/s][A
+Loading weights:   4%|3         | 12/338 [00:00<00:14, 23.10it/s][A
+Loading weights:   6%|5         | 20/338 [00:00<00:08, 38.56it/s][A
+Loading weights:   7%|7         | 25/338 [00:00<00:10, 29.26it/s][A
+Loading weights:   9%|8         | 29/338 [00:01<00:15, 19.82it/s][A
+Loading weights:   9%|9         | 32/338 [00:01<00:14, 21.33it/s][A
+Loading weights:  11%|#         | 37/338 [00:01<00:11, 25.74it/s][A
+Loading weights:  12%|#2        | 41/338 [00:01<00:13, 21.83it/s][A
+Loading weights:  13%|#3        | 45/338 [00:01<00:11, 25.16it/s][A
+Loading weights:  15%|#4        | 50/338 [00:01<00:09, 30.27it/s][A
+Loading weights:  16%|#5        | 54/338 [00:02<00:11, 24.31it/s][A
+Loading weights:  17%|#7        | 58/338 [00:02<00:10, 26.16it/s][A
+Loading weights:  18%|#8        | 62/338 [00:02<00:09, 28.06it/s][A
+Loading weights:  20%|#9        | 66/338 [00:02<00:10, 26.77it/s][A
+Loading weights:  20%|##        | 69/338 [00:02<00:12, 20.90it/s][A
+Loading weights:  21%|##1       | 72/338 [00:02<00:11, 22.57it/s][A
+Loading weights:  23%|##2       | 77/338 [00:03<00:09, 27.86it/s][A
+Loading weights:  24%|##3       | 81/338 [00:03<00:08, 29.76it/s][ALoading weights: 100%|##########| 338/338 [00:03<00:00, 106.91it/s]
+checkpoints:   8%|7         | 1/13 [04:50<58:11, 290.94s/it]step 0: llc -3193.255 ± 14.640, loss* 6.832
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   3%|2         | 9/338 [00:00<00:05, 59.83it/s][A
+Loading weights:   4%|4         | 15/338 [00:00<00:06, 47.67it/s][A
+Loading weights:   6%|6         | 21/338 [00:00<00:06, 50.94it/s][A
+Loading weights:   8%|7         | 27/338 [00:00<00:06, 50.56it/s][A
+Loading weights:  10%|9         | 33/338 [00:00<00:06, 46.30it/s][A
+Loading weights:  11%|#1        | 38/338 [00:00<00:07, 40.59it/s][A
+Loading weights:  13%|#2        | 43/338 [00:00<00:07, 41.86it/s][A
+Loading weights:  14%|#4        | 48/338 [00:01<00:06, 42.96it/s][A
+Loading weights:  16%|#5        | 54/338 [00:01<00:06, 41.93it/s][A
+Loading weights:  18%|#7        | 60/338 [00:01<00:06, 42.26it/s][A
+Loading weights:  20%|#9        | 66/338 [00:01<00:06, 43.21it/s][A
+Loading weights:  21%|##1       | 71/338 [00:01<00:06, 40.87it/s][A
+Loading weights:  22%|##2       | 76/338 [00:01<00:07, 36.72it/s][A
+Loading weights:  24%|##3       | 81/338 [00:01<00:06, 38.33it/s][A
+Loading weights:  25%|##5       | 85/338 [00:02<00:06, 38.00it/s][A
+Loading weights:  31%|###1      | 106/338 [00:02<00:03, 72.46it/s][A
+Loading weights:  33%|###3      | 113/338 [00:02<00:03, 61.41it/s][A
+Loading weights:  36%|###6      | 122/338 [00:02<00:03, 65.21it/s][A
+Loading weights:  38%|###8      | 129/338 [00:02<00:03, 61.83it/s][A
+Loading weights:  40%|####      | 136/338 [00:02<00:03, 61.59it/s][A
+Loading weights:  42%|####2     | 143/338 [00:02<00:04, 47.62it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 113.94it/s]
+checkpoints:  15%|#5        | 2/13 [09:32<52:18, 285.35s/it]step 5: llc -459.154 ± 2.652, loss* 3.276
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   2%|2         | 7/338 [00:00<00:05, 58.49it/s][A
+Loading weights:   4%|3         | 13/338 [00:00<00:07, 43.45it/s][A
+Loading weights:   5%|5         | 18/338 [00:00<00:08, 36.72it/s][A
+Loading weights:   7%|7         | 25/338 [00:00<00:06, 45.67it/s][A
+Loading weights:   9%|8         | 30/338 [00:00<00:07, 38.96it/s][A
+Loading weights:  10%|#         | 35/338 [00:00<00:07, 38.62it/s][A
+Loading weights:  12%|#1        | 40/338 [00:01<00:09, 31.04it/s][A
+Loading weights:  14%|#4        | 48/338 [00:01<00:07, 41.21it/s][A
+Loading weights:  16%|#5        | 53/338 [00:01<00:07, 39.44it/s][A
+Loading weights:  17%|#7        | 58/338 [00:01<00:06, 40.93it/s][A
+Loading weights:  19%|#9        | 65/338 [00:01<00:05, 46.49it/s][A
+Loading weights:  21%|##1       | 71/338 [00:01<00:05, 46.76it/s][A
+Loading weights:  23%|##3       | 78/338 [00:01<00:05, 50.51it/s][A
+Loading weights:  25%|##4       | 84/338 [00:02<00:05, 43.21it/s][A
+Loading weights:  26%|##6       | 89/338 [00:02<00:05, 43.65it/s][A
+Loading weights:  28%|##7       | 94/338 [00:02<00:05, 41.86it/s][A
+Loading weights:  29%|##9       | 99/338 [00:02<00:06, 36.77it/s][A
+Loading weights:  33%|###2      | 110/338 [00:02<00:04, 46.97it/s][A
+Loading weights:  35%|###4      | 117/338 [00:02<00:04, 51.97it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 124.90it/s]
+checkpoints:  23%|##3       | 3/13 [14:12<47:07, 282.75s/it]step 10: llc -49.348 ± 0.845, loss* 1.874
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   1%|1         | 5/338 [00:00<00:07, 46.90it/s][A
+Loading weights:   4%|3         | 12/338 [00:00<00:05, 56.22it/s][A
+Loading weights:   5%|5         | 18/338 [00:00<00:08, 37.60it/s][A
+Loading weights:   7%|7         | 25/338 [00:00<00:06, 45.13it/s][A
+Loading weights:   9%|9         | 31/338 [00:00<00:08, 37.15it/s][A
+Loading weights:  11%|#         | 36/338 [00:00<00:08, 33.63it/s][A
+Loading weights:  12%|#1        | 40/338 [00:01<00:09, 30.09it/s][A
+Loading weights:  13%|#3        | 44/338 [00:01<00:11, 26.21it/s][A
+Loading weights:  14%|#3        | 47/338 [00:01<00:11, 26.08it/s][A
+Loading weights:  15%|#4        | 50/338 [00:01<00:11, 25.43it/s][A
+Loading weights:  16%|#5        | 53/338 [00:01<00:11, 25.50it/s][A
+Loading weights:  17%|#6        | 56/338 [00:01<00:11, 25.55it/s][A
+Loading weights:  20%|##        | 69/338 [00:01<00:05, 50.55it/s][A
+Loading weights:  22%|##2       | 75/338 [00:02<00:06, 37.65it/s][A
+Loading weights:  24%|##3       | 80/338 [00:02<00:06, 37.53it/s][A
+Loading weights:  26%|##5       | 87/338 [00:02<00:05, 44.19it/s][A
+Loading weights:  28%|##7       | 93/338 [00:02<00:05, 44.92it/s][A
+Loading weights:  30%|##9       | 100/338 [00:02<00:04, 49.17it/s][A
+Loading weights:  31%|###1      | 106/338 [00:02<00:05, 45.80it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 118.22it/s]
+checkpoints:  31%|###       | 4/13 [19:08<43:12, 288.01s/it]step 20: llc -40.279 ± 1.817, loss* 1.114
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   1%|1         | 4/338 [00:00<00:10, 30.46it/s][A
+Loading weights:   2%|2         | 8/338 [00:00<00:11, 29.31it/s][A
+Loading weights:   4%|3         | 12/338 [00:00<00:09, 33.06it/s][A
+Loading weights:   5%|5         | 18/338 [00:00<00:07, 42.48it/s][A
+Loading weights:   7%|6         | 23/338 [00:00<00:08, 38.26it/s][A
+Loading weights:   8%|7         | 27/338 [00:00<00:08, 38.35it/s][A
+Loading weights:   9%|9         | 31/338 [00:01<00:11, 26.75it/s][A
+Loading weights:  11%|#         | 36/338 [00:01<00:11, 26.29it/s][A
+Loading weights:  12%|#1        | 39/338 [00:01<00:14, 21.23it/s][A
+Loading weights:  13%|#2        | 43/338 [00:01<00:11, 24.65it/s][A
+Loading weights:  14%|#3        | 47/338 [00:01<00:10, 27.07it/s][A
+Loading weights:  15%|#5        | 51/338 [00:01<00:09, 29.03it/s][A
+Loading weights:  16%|#6        | 55/338 [00:01<00:11, 24.90it/s][A
+Loading weights:  17%|#7        | 58/338 [00:02<00:11, 25.36it/s][A
+Loading weights:  18%|#8        | 61/338 [00:02<00:11, 24.85it/s][A
+Loading weights:  20%|##        | 69/338 [00:02<00:08, 33.02it/s][A
+Loading weights:  23%|##3       | 78/338 [00:02<00:06, 42.95it/s][A
+Loading weights:  27%|##6       | 90/338 [00:02<00:04, 60.33it/s][A
+Loading weights:  30%|##9       | 101/338 [00:02<00:03, 72.17it/s][A
+Loading weights:  32%|###2      | 109/338 [00:03<00:04, 48.54it/s][ALoading weights: 100%|##########| 338/338 [00:03<00:00, 112.11it/s]
+checkpoints:  38%|###8      | 5/13 [24:01<38:38, 289.84s/it]step 35: llc -33.141 ± 1.337, loss* 0.975
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   1%|1         | 5/338 [00:00<00:06, 49.26it/s][A
+Loading weights:   3%|2         | 10/338 [00:00<00:07, 46.74it/s][A
+Loading weights:   4%|4         | 15/338 [00:00<00:06, 47.90it/s][A
+Loading weights:   6%|5         | 20/338 [00:00<00:07, 40.43it/s][A
+Loading weights:   7%|7         | 25/338 [00:00<00:08, 35.54it/s][A
+Loading weights:   9%|8         | 30/338 [00:00<00:09, 33.51it/s][A
+Loading weights:  10%|#         | 34/338 [00:01<00:09, 32.99it/s][A
+Loading weights:  11%|#1        | 38/338 [00:01<00:11, 25.80it/s][A
+Loading weights:  13%|#3        | 44/338 [00:01<00:09, 30.30it/s][A
+Loading weights:  15%|#4        | 50/338 [00:01<00:07, 36.53it/s][A
+Loading weights:  16%|#6        | 55/338 [00:01<00:09, 30.00it/s][A
+Loading weights:  17%|#7        | 59/338 [00:01<00:09, 30.41it/s][A
+Loading weights:  19%|#8        | 63/338 [00:01<00:08, 30.94it/s][A
+Loading weights:  20%|#9        | 67/338 [00:02<00:08, 31.87it/s][A
+Loading weights:  21%|##1       | 71/338 [00:02<00:07, 33.68it/s][A
+Loading weights:  22%|##2       | 75/338 [00:02<00:08, 31.19it/s][A
+Loading weights:  24%|##3       | 81/338 [00:02<00:07, 33.86it/s][A
+Loading weights:  25%|##5       | 85/338 [00:02<00:07, 33.38it/s][A
+Loading weights:  28%|##7       | 94/338 [00:02<00:05, 44.68it/s][A
+Loading weights:  29%|##9       | 99/338 [00:02<00:05, 43.71it/s][A
+Loading weights:  40%|###9      | 135/338 [00:02<00:01, 122.80it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 116.56it/s]
+checkpoints:  46%|####6     | 6/13 [28:47<33:41, 288.77s/it]step 50: llc -3.751 ± 1.272, loss* 0.909
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   3%|2         | 10/338 [00:00<00:04, 73.83it/s][A
+Loading weights:   5%|5         | 18/338 [00:00<00:04, 65.23it/s][A
+Loading weights:   8%|7         | 26/338 [00:00<00:04, 69.20it/s][A
+Loading weights:  10%|9         | 33/338 [00:00<00:05, 56.34it/s][A
+Loading weights:  12%|#1        | 40/338 [00:00<00:05, 54.09it/s][A
+Loading weights:  14%|#4        | 49/338 [00:00<00:04, 63.62it/s][A
+Loading weights:  17%|#6        | 56/338 [00:01<00:07, 39.78it/s][A
+Loading weights:  19%|#8        | 64/338 [00:01<00:05, 47.30it/s][A
+Loading weights:  21%|##1       | 71/338 [00:01<00:06, 41.64it/s][A
+Loading weights:  24%|##3       | 80/338 [00:01<00:05, 50.08it/s][A
+Loading weights:  26%|##5       | 87/338 [00:01<00:05, 43.86it/s][A
+Loading weights:  28%|##7       | 93/338 [00:01<00:05, 44.03it/s][A
+Loading weights:  29%|##8       | 98/338 [00:02<00:06, 37.29it/s][A
+Loading weights:  31%|###1      | 105/338 [00:02<00:05, 43.61it/s][A
+Loading weights:  33%|###2      | 111/338 [00:02<00:05, 40.88it/s][A
+Loading weights:  34%|###4      | 116/338 [00:02<00:05, 40.58it/s][A
+Loading weights:  36%|###5      | 121/338 [00:02<00:05, 42.52it/s][A
+Loading weights:  37%|###7      | 126/338 [00:02<00:04, 44.18it/s][A
+Loading weights:  39%|###8      | 131/338 [00:02<00:04, 45.59it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 119.71it/s]
+checkpoints:  54%|#####3    | 7/13 [33:31<28:43, 287.18s/it]step 75: llc 5.686 ± 1.551, loss* 0.877
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   2%|2         | 8/338 [00:00<00:06, 49.79it/s][A
+Loading weights:   4%|3         | 13/338 [00:00<00:06, 47.35it/s][A
+Loading weights:   6%|5         | 19/338 [00:00<00:06, 47.84it/s][A
+Loading weights:   7%|7         | 24/338 [00:00<00:07, 42.60it/s][A
+Loading weights:   9%|8         | 29/338 [00:00<00:06, 44.32it/s][A
+Loading weights:  12%|#1        | 39/338 [00:00<00:06, 46.83it/s][A
+Loading weights:  14%|#3        | 46/338 [00:00<00:05, 50.12it/s][A
+Loading weights:  15%|#5        | 52/338 [00:01<00:05, 51.86it/s][A
+Loading weights:  17%|#7        | 58/338 [00:01<00:06, 40.65it/s][A
+Loading weights:  19%|#8        | 63/338 [00:01<00:06, 41.40it/s][A
+Loading weights:  20%|##        | 68/338 [00:01<00:07, 36.65it/s][A
+Loading weights:  25%|##4       | 83/338 [00:01<00:04, 54.91it/s][A
+Loading weights:  28%|##7       | 93/338 [00:01<00:04, 59.73it/s][A
+Loading weights:  30%|##9       | 100/338 [00:02<00:04, 49.10it/s][A
+Loading weights:  31%|###1      | 106/338 [00:02<00:04, 49.29it/s][A
+Loading weights:  33%|###3      | 112/338 [00:02<00:04, 49.47it/s][A
+Loading weights:  35%|###4      | 118/338 [00:02<00:05, 42.32it/s][A
+Loading weights:  36%|###6      | 123/338 [00:02<00:06, 35.79it/s][A
+Loading weights:  41%|####1     | 139/338 [00:02<00:03, 58.77it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 116.49it/s]
+checkpoints:  62%|######1   | 8/13 [38:08<23:38, 283.73s/it]step 100: llc -6.558 ± 0.758, loss* 0.871
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   4%|3         | 12/338 [00:00<00:05, 61.25it/s][A
+Loading weights:   6%|5         | 19/338 [00:00<00:05, 58.35it/s][A
+Loading weights:   8%|8         | 28/338 [00:00<00:04, 68.10it/s][A
+Loading weights:  11%|#         | 36/338 [00:00<00:05, 54.01it/s][A
+Loading weights:  12%|#2        | 42/338 [00:00<00:05, 55.31it/s][A
+Loading weights:  14%|#4        | 48/338 [00:00<00:07, 39.52it/s][A
+Loading weights:  16%|#5        | 53/338 [00:01<00:06, 40.81it/s][A
+Loading weights:  17%|#7        | 59/338 [00:01<00:06, 41.59it/s][A
+Loading weights:  20%|#9        | 67/338 [00:01<00:05, 49.80it/s][A
+Loading weights:  22%|##1       | 73/338 [00:01<00:05, 44.64it/s][A
+Loading weights:  26%|##6       | 88/338 [00:01<00:03, 64.66it/s][A
+Loading weights:  28%|##8       | 95/338 [00:01<00:04, 51.16it/s][A
+Loading weights:  30%|##9       | 101/338 [00:02<00:05, 44.02it/s][A
+Loading weights:  31%|###1      | 106/338 [00:02<00:05, 42.81it/s][A
+Loading weights:  33%|###2      | 111/338 [00:02<00:05, 44.12it/s][A
+Loading weights:  34%|###4      | 116/338 [00:02<00:05, 41.96it/s][A
+Loading weights:  36%|###5      | 121/338 [00:02<00:06, 36.01it/s][A
+Loading weights:  37%|###6      | 125/338 [00:02<00:05, 36.83it/s][A
+Loading weights:  40%|###9      | 135/338 [00:02<00:03, 51.63it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 118.57it/s]
+checkpoints:  69%|######9   | 9/13 [42:51<18:54, 283.53s/it]step 150: llc -6.533 ± 1.374, loss* 0.654
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   2%|1         | 6/338 [00:00<00:05, 56.49it/s][A
+Loading weights:   4%|3         | 12/338 [00:00<00:07, 46.12it/s][A
+Loading weights:   5%|5         | 17/338 [00:00<00:10, 31.75it/s][A
+Loading weights:   7%|7         | 24/338 [00:00<00:08, 38.52it/s][A
+Loading weights:   9%|8         | 30/338 [00:00<00:07, 40.58it/s][A
+Loading weights:  10%|#         | 35/338 [00:00<00:08, 36.76it/s][A
+Loading weights:  12%|#1        | 39/338 [00:01<00:09, 31.12it/s][A
+Loading weights:  14%|#4        | 48/338 [00:01<00:07, 37.63it/s][A
+Loading weights:  15%|#5        | 52/338 [00:01<00:09, 28.74it/s][A
+Loading weights:  17%|#6        | 56/338 [00:01<00:09, 29.87it/s][A
+Loading weights:  18%|#7        | 60/338 [00:01<00:09, 30.34it/s][A
+Loading weights:  19%|#8        | 64/338 [00:01<00:09, 27.76it/s][A
+Loading weights:  20%|#9        | 67/338 [00:02<00:11, 24.17it/s][A
+Loading weights:  22%|##1       | 73/338 [00:02<00:08, 30.00it/s][A
+Loading weights:  23%|##2       | 77/338 [00:02<00:08, 31.86it/s][A
+Loading weights:  25%|##4       | 83/338 [00:02<00:06, 37.81it/s][A
+Loading weights:  28%|##7       | 94/338 [00:02<00:04, 54.98it/s][A
+Loading weights:  30%|###       | 102/338 [00:02<00:03, 59.62it/s][A
+Loading weights:  32%|###2      | 109/338 [00:02<00:03, 61.01it/s][A
+Loading weights:  34%|###4      | 116/338 [00:02<00:03, 62.32it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 115.46it/s]
+checkpoints:  77%|#######6  | 10/13 [47:30<14:07, 282.34s/it]step 200: llc 2.029 ± 0.833, loss* 0.266
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   2%|1         | 6/338 [00:00<00:05, 56.17it/s][A
+Loading weights:   4%|3         | 12/338 [00:00<00:08, 36.35it/s][A
+Loading weights:   5%|5         | 18/338 [00:00<00:07, 42.20it/s][A
+Loading weights:   7%|6         | 23/338 [00:00<00:09, 34.83it/s][A
+Loading weights:   8%|7         | 27/338 [00:00<00:08, 36.05it/s][A
+Loading weights:   9%|9         | 31/338 [00:01<00:12, 24.62it/s][A
+Loading weights:  10%|#         | 35/338 [00:01<00:12, 24.94it/s][A
+Loading weights:  12%|#2        | 42/338 [00:01<00:09, 32.30it/s][A
+Loading weights:  16%|#5        | 53/338 [00:01<00:05, 48.03it/s][A
+Loading weights:  18%|#7        | 60/338 [00:01<00:05, 49.21it/s][A
+Loading weights:  21%|##        | 70/338 [00:01<00:04, 55.33it/s][A
+Loading weights:  22%|##2       | 76/338 [00:01<00:05, 48.37it/s][A
+Loading weights:  24%|##4       | 82/338 [00:02<00:06, 42.21it/s][A
+Loading weights:  26%|##6       | 89/338 [00:02<00:05, 47.83it/s][A
+Loading weights:  28%|##8       | 95/338 [00:02<00:04, 48.80it/s][A
+Loading weights:  30%|##9       | 101/338 [00:02<00:05, 44.53it/s][A
+Loading weights:  31%|###1      | 106/338 [00:02<00:05, 41.90it/s][A
+Loading weights:  33%|###3      | 113/338 [00:02<00:04, 47.87it/s][A
+Loading weights:  35%|###5      | 119/338 [00:02<00:04, 48.46it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 119.92it/s]
+checkpoints:  85%|########4 | 11/13 [52:05<09:19, 279.98s/it]step 300: llc 2.988 ± 0.650, loss* 0.062
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   1%|          | 3/338 [00:00<00:11, 29.79it/s][A
+Loading weights:   2%|1         | 6/338 [00:00<00:11, 27.80it/s][A
+Loading weights:   4%|4         | 15/338 [00:00<00:05, 54.75it/s][A
+Loading weights:   6%|6         | 21/338 [00:00<00:06, 50.50it/s][A
+Loading weights:   8%|7         | 27/338 [00:00<00:06, 50.63it/s][A
+Loading weights:  10%|9         | 33/338 [00:00<00:07, 43.22it/s][A
+Loading weights:  12%|#1        | 39/338 [00:00<00:06, 46.41it/s][A
+Loading weights:  14%|#3        | 46/338 [00:00<00:06, 47.59it/s][A
+Loading weights:  16%|#5        | 54/338 [00:01<00:05, 55.46it/s][A
+Loading weights:  18%|#7        | 60/338 [00:01<00:06, 44.93it/s][A
+Loading weights:  19%|#9        | 65/338 [00:01<00:06, 40.42it/s][A
+Loading weights:  21%|##        | 70/338 [00:01<00:07, 37.13it/s][A
+Loading weights:  22%|##1       | 74/338 [00:01<00:09, 28.50it/s][A
+Loading weights:  23%|##3       | 78/338 [00:02<00:10, 24.88it/s][A
+Loading weights:  24%|##3       | 81/338 [00:02<00:10, 24.80it/s][A
+Loading weights:  25%|##5       | 85/338 [00:02<00:09, 26.45it/s][A
+Loading weights:  27%|##6       | 90/338 [00:02<00:07, 31.30it/s][A
+Loading weights:  28%|##7       | 94/338 [00:02<00:08, 27.61it/s][A
+Loading weights:  29%|##9       | 99/338 [00:02<00:07, 31.74it/s][A
+Loading weights:  31%|###1      | 106/338 [00:02<00:05, 40.49it/s][A
+Loading weights:  33%|###2      | 111/338 [00:02<00:05, 41.12it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 113.61it/s]
+checkpoints:  92%|#########2| 12/13 [56:42<04:38, 278.98s/it]step 400: llc 2.130 ± 0.318, loss* 0.015
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s][A
+Loading weights:   2%|2         | 7/338 [00:00<00:04, 67.02it/s][A
+Loading weights:   4%|4         | 14/338 [00:00<00:05, 61.65it/s][A
+Loading weights:   6%|6         | 21/338 [00:00<00:05, 56.50it/s][A
+Loading weights:   8%|7         | 27/338 [00:00<00:07, 42.16it/s][A
+Loading weights:   9%|9         | 32/338 [00:00<00:06, 44.23it/s][A
+Loading weights:  11%|#         | 37/338 [00:00<00:06, 45.16it/s][A
+Loading weights:  12%|#2        | 42/338 [00:00<00:07, 37.11it/s][A
+Loading weights:  14%|#4        | 48/338 [00:01<00:06, 42.18it/s][A
+Loading weights:  16%|#5        | 53/338 [00:01<00:06, 43.72it/s][A
+Loading weights:  18%|#8        | 61/338 [00:01<00:05, 52.89it/s][A
+Loading weights:  20%|#9        | 67/338 [00:01<00:05, 52.57it/s][A
+Loading weights:  22%|##1       | 73/338 [00:01<00:07, 37.71it/s][A
+Loading weights:  23%|##3       | 78/338 [00:01<00:06, 39.71it/s][A
+Loading weights:  25%|##4       | 84/338 [00:01<00:06, 39.27it/s][A
+Loading weights:  28%|##8       | 96/338 [00:02<00:04, 56.54it/s][A
+Loading weights:  30%|###       | 103/338 [00:02<00:05, 45.39it/s][A
+Loading weights:  32%|###2      | 109/338 [00:02<00:04, 46.97it/s][A
+Loading weights:  34%|###4      | 115/338 [00:02<00:05, 43.65it/s][A
+Loading weights:  36%|###5      | 120/338 [00:02<00:06, 34.50it/s][ALoading weights: 100%|##########| 338/338 [00:02<00:00, 119.06it/s]
+checkpoints: 100%|##########| 13/13 [1:01:20<00:00, 278.85s/it]checkpoints: 100%|##########| 13/13 [1:01:20<00:00, 283.14s/it]
+step 600: llc -0.204 ± 0.059, loss* 0.004
+wrote D:\dev\finetune-dynamics\figures\facts_dynamics.png
+EXIT 0

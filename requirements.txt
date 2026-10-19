@@ -1,0 +1,13 @@
+torch
+transformers>=4.45
+peft>=0.13
+accelerate
+datasets
+# devinterp  # optional, not used by the scripts
+inspect-ai
+scikit-learn
+numpy
+pandas
+matplotlib
+tqdm
+python-dotenv

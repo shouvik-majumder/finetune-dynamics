@@ -1,0 +1,10 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:   5%|5         | 17/338 [00:00<00:03, 105.90it/s]Loading weights:   8%|8         | 28/338 [00:00<00:03, 95.61it/s] Loading weights:  11%|#1        | 38/338 [00:00<00:04, 65.49it/s]Loading weights:  14%|#3        | 47/338 [00:00<00:04, 67.37it/s]Loading weights:  16%|#6        | 55/338 [00:00<00:04, 65.68it/s]Loading weights:  29%|##9       | 99/338 [00:00<00:01, 152.79it/s]Loading weights:  34%|###4      | 116/338 [00:01<00:01, 122.58it/s]Loading weights:  38%|###8      | 130/338 [00:01<00:01, 106.93it/s]Loading weights:  46%|####6     | 156/338 [00:01<00:01, 139.28it/s]Loading weights:  53%|#####3    | 180/338 [00:01<00:01, 154.19it/s]Loading weights:  59%|#####8    | 198/338 [00:01<00:01, 120.48it/s]Loading weights:  63%|######3   | 213/338 [00:01<00:01, 102.38it/s]Loading weights:  75%|#######4  | 253/338 [00:02<00:00, 154.92it/s]Loading weights:  80%|########  | 272/338 [00:02<00:00, 121.74it/s]Loading weights:  88%|########7 | 296/338 [00:02<00:00, 137.66it/s]Loading weights:  93%|#########3| 315/338 [00:02<00:00, 147.18it/s]Loading weights: 100%|##########| 338/338 [00:02<00:00, 126.87it/s]
+sampled parameters: 18464768
+grid:   0%|          | 0/4 [00:00<?, ?it/s]grid:  25%|##5       | 1/4 [07:57<23:52, 477.35s/it]grid:  50%|#####     | 2/4 [15:46<15:45, 472.60s/it]grid:  75%|#######5  | 3/4 [23:49<07:57, 477.13s/it]grid: 100%|##########| 4/4 [31:31<00:00, 471.19s/it]grid: 100%|##########| 4/4 [31:31<00:00, 472.81s/it]
+lr=1.0e-06 loc=100.0 nbeta=1e+03: llc 237.593 ± 13.012, loss 0.020 -> 0.492 (L* 0.008)
+lr=1.0e-06 loc=1000.0 nbeta=1e+03: llc 164.291 ± 11.805, loss 0.017 -> 0.306 (L* 0.008)
+lr=1.0e-06 loc=100.0 nbeta=1e+04: llc 312.154 ± 5.481, loss 0.009 -> 0.066 (L* 0.008)
+lr=3.0e-06 loc=100.0 nbeta=1e+04: llc 12763.890 ± 8931.873, loss 0.064 -> 0.204 (L* 0.008)
+EXIT 0
